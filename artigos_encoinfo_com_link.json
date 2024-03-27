@@ -1,0 +1,3604 @@
+[
+    {
+        "Título": "Aprendizado Supervisionado para Aquisição de Conhecimento de Dados",
+        "Membros": [
+            "Katiane Ribeiro Lopes",
+            "Luciano Leite Teixeira",
+            "Rosimarci Pacheco Tonaco"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/aprendizado-supervisionado-para-aquisicao-de-conhecimento-de-dados"
+    },
+    {
+        "Título": "Desenvolvimento de um Ambiente Gráfico para Modelagem e Simulação de Sistemas Multimídia",
+        "Membros": [
+            "Carlos Henrique Corrêa Tolentino",
+            "Adams Cirino Gregório",
+            "Cleuby Souza Lima"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/desenvolvimento-de-um-ambiente-grafico-para-modelagem-e-simulacao-de-sistemas-multimidia"
+    },
+    {
+        "Título": "Realidade Virtual: Uma visão geral",
+        "Membros": [
+            "Alessandra Araújo Moreira",
+            "Cristina D’Ornellas Filipakis",
+            "Lilissanne Marcelly de Sousa"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/realidade-virtual-uma-visao-geral"
+    },
+    {
+        "Título": "Portugol: Implementação de algoritmos",
+        "Membros": [
+            "Vagner José Sacramento Rodrigues",
+            "Almir Joaquim de Sousa"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/portugol-implementacao-de-algoritmos"
+    },
+    {
+        "Título": "Programação Orientada a Eventos na Produção de Software Educacional",
+        "Membros": [
+            "Aislan Max Gomes Dias",
+            "Carlos Henrique Corrêa Tolentino"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/programacao-orientada-a-eventos-na-producao-de-software-educacional"
+    },
+    {
+        "Título": "Proposta de Desenvolvimento de um Sistema Interativo de Apoio ao Portador de Síndrome de Down",
+        "Membros": [
+            "Márlio Kleber Venâncio Gomes",
+            "Agnes Souza da Rosa"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/proposta-de-desenvolvimento-de-um-sistema-interativo-de-apoio-ao-portador-de-sindrome-de-down"
+    },
+    {
+        "Título": "Sistema de Especialista para Auxílio à Decisão Médica",
+        "Membros": [
+            "Whelmison de Melo Rodrigues",
+            "Daniela Von Müllen"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/sistema-de-especialista-para-auxilio-a-decisao-medica"
+    },
+    {
+        "Título": "Sistema de Gerenciamento Empresarial: Uma abordagem prática",
+        "Membros": [
+            "Irene Barros da Costa",
+            "Mirts Rodrigues Pinto",
+            "Udeilson Barros da Costa",
+            "Almir Joaquim de Sousa"
+        ],
+        "Ano": 1999,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/1999/artigos/sistema-de-gerenciamento-empresarial-uma-abordagem-pratica"
+    },
+    {
+        "Título": "API de sockets: os segredos da programação cliente/servidor",
+        "Membros": [
+            "Fabiano Caixeta Duarte",
+            "Stéphany Moraes Martins",
+            "Prof. Cláudio de Castro Monteiro"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/api-de-sockets-os-segredos-da-programacao-cliente-servidor"
+    },
+    {
+        "Título": "Uma estrutura para a resolução de cálculo proposicional e sua apresentação",
+        "Membros": [
+            "Carlos Henrique Corrêa Tolentino",
+            "Lilissanne Marcelly de Sousa",
+            "Katiane Ribeiro Lopes",
+            "Cristina D’Ornellas Filipakis Souza",
+            "Prof. Fabiano Fagundes",
+            "Prof.ª Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/uma-estrutura-para-a-resolucao-de-calculo-proposicional-e-sua-apresentacao"
+    },
+    {
+        "Título": "Uma análise do algoritmo Hugin Lite 5.3 para aquisição de conhecimento",
+        "Membros": [
+            "Rosimarci Pacheco Tonaco",
+            "Prof.ª Thereza Patrícia Pereira Padilha",
+            "Prof. Fabiano Fagundes"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/uma-analise-do-algoritmo-hugin-lite-5-3-para-aquisicao-de-conhecimento"
+    },
+    {
+        "Título": "Problemática da programação multimídia na produção de software educacional utilizando ToolBook",
+        "Membros": [
+            "Aislan Max Gomes Dias",
+            "Carlos Henrique Corrêa Tolentino",
+            "Prof.ª Iris Weiduschat",
+            "Prof. Fabiano Fagundes"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/problematica-da-programacao-multimidia-na-producao-de-software-educacional-utilizando-toolbook"
+    },
+    {
+        "Título": "Uma aplicação do algoritmo CBA na avaliação de pacientes com episódios depressivos",
+        "Membros": [
+            "Eunicelhia de Sousa Lemos",
+            "Prof.ª Thereza Patrícia Pereira Padilha"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/uma-aplicacao-do-algoritmo-cba-na-avaliacao-de-pacientes-com-episodios-depressivos"
+    },
+    {
+        "Título": "Um estudo sobre usabilidade nas interfaces de sites de jornalismo on-line",
+        "Membros": [
+            "Márlio Kleber Venâncio",
+            "Prof. Fabiano Fagundes"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/um-estudo-sobre-usabilidade-nas-interfaces-de-sites-de-jornalismo-on-line"
+    },
+    {
+        "Título": "Entendendo o funcionamento da técnica de ataque “IP SPOOFING 83”",
+        "Membros": [
+            "Vagner José do Sacramento Rodrigues",
+            "Prof. Cláudio de Castro Monteiro"
+        ],
+        "Ano": 2000,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2000/artigos/entendendo-o-funcionamento-da-tecnica-de-ataque-ip-spoofing-83"
+    },
+    {
+        "Título": "PCML: Linguagem de Marcação para Cálculo Proposicional Utilizando XML",
+        "Membros": [
+            "André Mesquita Rincon",
+            "Fabiano Fagundes",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/pcml-linguagem-de-marcacao-para-calculo-proposicional-utilizando-xml"
+    },
+    {
+        "Título": "MetaTree – Biblioteca para Armazenar e Gerenciar Dados Genéricos em Arquivo Utilizando Árvore Binária Genérica Balanceada",
+        "Membros": [
+            "Almir Joaquim de Souza",
+            "Fábio Silveira Vidal",
+            "Fredson Vieira Costa"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/metatree-biblioteca-para-armazenar-e-gerenciar-dados-genericos-em-arquivo-utilizando-arvore-binaria-generica-balanceada"
+    },
+    {
+        "Título": "FabSon – Desenvolvimento de um Editor de Banco de Dados Utilizando Indexação de Arquivos com Árvores Binárias",
+        "Membros": [
+            "Almir Joaquim de Souza",
+            "Claudomiro M. G. André",
+            "Fábio Silveira Vidal",
+            "Fredson Vieira Costa"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/fabson-desenvolvimento-de-um-editor-de-banco-de-dados-utilizando-indexacao-de-arquivos-com-arvores-binarias"
+    },
+    {
+        "Título": "Utilizando Estratégias para Promover a Colaboração numa Ferramenta de Chat",
+        "Membros": [
+            "Ricardo Marx C. S. de Jesus",
+            "Paulo R. Gonçalves",
+            "Thereza P. P. Padilha"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/utilizando-estrategias-para-promover-a-colaboracao-numa-ferramenta-de-chat"
+    },
+    {
+        "Título": "Avaliação de Software Utilizando a Técnica de Inspeção de Conformidade Ergonômica de Software Educacional – TICESE",
+        "Membros": [
+            "Luciano Gamez",
+            "Gerson Presente Focking"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/avaliacao-de-software-utilizando-a-tecnica-de-inspecao-de-conformidade-ergonomica-de-software-educacional-ticese"
+    },
+    {
+        "Título": "Esquema XML para Células de Votação Digital em Eleições Oficiais",
+        "Membros": [
+            "Augusto Jun Devegili",
+            "Heres Edison V. Tobar Neto"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/esquema-xml-para-celulas-de-votacao-digital-em-eleicoes-oficiais"
+    },
+    {
+        "Título": "Um Sistema Especialista para Avaliação Institucional",
+        "Membros": [
+            "Carlos Roberto da Silva Filho",
+            "Turatto França"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/um-sistema-especialista-para-avaliacao-institucional"
+    },
+    {
+        "Título": "Age Write: Uma Ferramenta para Compactação de Textos Utilizando Algoritmo de Huffman e Técnicas de Estruturas de Dados",
+        "Membros": [
+            "Alexandre Tadeu Rossini da Silva",
+            "Elias Vidal Bezerra Junior",
+            "Gustavo Setúbal Nazareno",
+            "Gentil Veloso Barbosa"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/age-write-uma-ferramenta-para-compactacao-de-textos-utilizando-algoritmo-de-huffman-e-tecnicas-de-estruturas-de-dados"
+    },
+    {
+        "Título": "Gsh: Uma ferramenta alternativa para segurança em acessos a sistemas Linux",
+        "Membros": [
+            "Marcelo Leal",
+            "Ricardo Marx",
+            "Wanderley Nunes",
+            "Claudio Monteiro"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/gsh-uma-ferramenta-alternativa-para-seguranca-em-acessos-a-sistemas-linux"
+    },
+    {
+        "Título": "Hipermídia Adaptativa na Construção de um Portal de Gerência Acadêmica",
+        "Membros": [
+            "Jackson Gomes de Souza",
+            "Parcilene Fernandes Brito",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/hipermidia-adaptativa-na-construcao-de-um-portal-de-gerencia-academica"
+    },
+    {
+        "Título": "EducaXML: um ambiente colaborativo para desenvolvimento de hiperdocumentos educacionais baseados em XML",
+        "Membros": [
+            "Jackson Gomes de Souza",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes",
+            "Parcilene Fernandes Brito",
+            "Alessandra Araújo Moreira",
+            "Carlos Henrique Corrêia Tolentino"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/educaxml-um-ambiente-colaborativo-para-desenvolvimento-de-hiperdocumentos-educacionais-baseados-em-xml"
+    },
+    {
+        "Título": "Uma Proposta de Ambiente de Aprendizado Colaborativo na Internet Baseada em Concepções Ergonômicas",
+        "Membros": [
+            "Gerson Presente Focking",
+            "Laura Tuyama",
+            "Rita Paulino",
+            "Rosangela Felippi"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/uma-proposta-de-ambiente-de-aprendizado-colaborativo-na-internet-baseada-em-concepcoes-ergonomicas"
+    },
+    {
+        "Título": "Definição de uma Estrutura de Agentes Inteligentes para Determinação de uma Sequencia de Estudos",
+        "Membros": [
+            "Ary Henrique M. de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/definicao-de-uma-estrutura-de-agentes-inteligentes-para-determinacao-de-uma-sequencia-de-estudos"
+    },
+    {
+        "Título": "Algoritmo Genético como Gerador de uma Sequencia de Estudos do Cálculo Proposicional",
+        "Membros": [
+            "Fernando Luiz de Oliveira",
+            "Parcilene Fernandes Brito",
+            "Fabiano Fagundes",
+            "Ricardo Marx Costa S. de Jesus"
+        ],
+        "Ano": 2001,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2001/artigos/algoritmo-genetico-como-gerador-de-uma-sequencia-de-estudos-do-calculo-proposicional"
+    },
+    {
+        "Título": "Simulação da Coluna de Retificação de um Sistema de Refrigeração por Absorção",
+        "Membros": [
+            "D`Ilton Moreira Silveira",
+            "Joel Carlos Zukowski Jr.",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/simulacao-da-coluna-de-retificacao-de-um-sistema-de-refrigeracao-por-absorcao"
+    },
+    {
+        "Título": "Generalização de uma autoridade certificadora: módulos de política e intermediários Web",
+        "Membros": [
+            "Álvaro Nunes Prestes",
+            "Augusto Jun Devegili"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/generalizacao-de-uma-autoridade-certificadora-modulos-de-politica-e-intermediarios-web"
+    },
+    {
+        "Título": "Um Modelo de Aprendizado de Agentes Inteligentes Baseado em Técnicas de Data Mining",
+        "Membros": [
+            "Leandro Maciel",
+            "Thereza Patrícia P. Padilha"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/um-modelo-de-aprendizado-de-agentes-inteligentes-baseado-em-tecnicas-de-data-mining"
+    },
+    {
+        "Título": "Utilização de Algoritmos Simbólicos para a Identificação do Número de Caroços do Fruto Pequi",
+        "Membros": [
+            "Fernando Luiz de Oliveira",
+            "Thereza Patrícia. P. Padilha",
+            "Conceição Aparecida Previero",
+            "Ana Cássia G. de Melo"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/utilizacao-de-algoritmos-simbolicos-para-a-identificacao-do-numero-de-carocos-do-fruto-pequi"
+    },
+    {
+        "Título": "Resultado da utilização dos conceitos EIS e a metodologia SIEGO para delineamento de um sistema de informações estratégicas para confecções.",
+        "Membros": [
+            "Ricardo Alencar Azambuja",
+            "Oscar Dalfovo",
+            "Paulo Roberto Dias"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/resultado-da-utilizacao-dos-conceitos-eis-e-a-metodologia-siego-para-delineamento-de-um-sistema-de-informacoes-estrategicas-para-confeccoes"
+    },
+    {
+        "Título": "Conceitos e Implementação de um Sistema Concorrente Orientado a Objeto",
+        "Membros": [
+            "Paulo Roberto Gonçalves",
+            "Thereza Patrícia P. Padilha"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/conceitos-e-implementacao-de-um-sistema-concorrente-orientado-a-objeto"
+    },
+    {
+        "Título": "Sistema de E-Commerce, gerenciado por um Eis",
+        "Membros": [
+            "Jordan Laus",
+            "Ricardo Alencar de Azambuja",
+            "Oscar Dalfovo",
+            "Paulo Roberto Dias"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/sistema-de-e-commerce-gerenciado-por-um-eis"
+    },
+    {
+        "Título": "Um Simulador em Tempo Real para Manejo do Solo na Agricultura de Precisão",
+        "Membros": [
+            "Túlio Quixabeira Milhomem",
+            "Luis Godinho Júnior",
+            "Madianita Bogo",
+            "Gonzalo Álvaro Vazquez Fernandez"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/um-simulador-em-tempo-real-para-manejo-do-solo-na-agricultura-de-precisao"
+    },
+    {
+        "Título": "RAFF – Um Compilador para Facilitar o Aprendizado de Algoritmos",
+        "Membros": [
+            "Almir Joaquim de Sousa",
+            "Fábio Silveira Vidal",
+            "Fredson Vieira Costa",
+            "Ranildo Costa Santana"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/raff-um-compilador-para-facilitar-o-aprendizado-de-algoritmos"
+    },
+    {
+        "Título": "Proposta de adequação do padrão HTML+TIME ao modelo de referência de sincronização multimídia",
+        "Membros": [
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/proposta-de-adequacao-do-padrao-htmltime-ao-modelo-de-referencia-de-sincronizacao-multimidia"
+    },
+    {
+        "Título": "Um Estudo sobre Plataformas de Anonimato",
+        "Membros": [
+            "Ricardo Marx Costa Soares de Jesus",
+            "Augusto Jun Devegili"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/um-estudo-sobre-plataformas-de-anonimato"
+    },
+    {
+        "Título": "Caminhos e Tendências do uso de Banco de Dados em Bioinformática",
+        "Membros": [
+            "Emilio Mario Wieczorek",
+            "Eduardo Leal"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/caminhos-e-tendencias-do-uso-de-banco-de-dados-em-bioinformatica"
+    },
+    {
+        "Título": "Mapeamento de DTD para Esquema Lógico Relacional",
+        "Membros": [
+            "Michael Schuenck dos Santos",
+            "Marcus Barbosa Pinto",
+            "Deise de Brum Saccol"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/mapeamento-de-dtd-para-esquema-logico-relacional"
+    },
+    {
+        "Título": "XML e JAVA no Desenvolvimento de um Editor de Fórmulas do Cálculo de Predicados",
+        "Membros": [
+            "Carlos Eduardo de Lima",
+            "Edeilson Milhomem da Silva",
+            "Lucas Roberto Bechert Schmitz",
+            "Parcilene Fernandes de Brito",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/xml-e-java-no-desenvolvimento-de-um-editor-de-formulas-do-calculo-de-predicados"
+    },
+    {
+        "Título": "Sugestões de Segurança na Construção de Plataformas de Anonimato",
+        "Membros": [
+            "Ricardo Marx Costa Soares de Jesus",
+            "Augusto Jun Devegili"
+        ],
+        "Ano": 2002,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2002/artigos/sugestoes-de-seguranca-na-construcao-de-plataformas-de-anonimato"
+    },
+    {
+        "Título": "XMLTreeView: Implementação de uma Ferramenta Gráfica em Flash para Manipulação e Tratamento de Documentos XML",
+        "Membros": [
+            "Álvaro Nunes Prestes",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/xmltreeview-implementacao-de-uma-ferramenta-grafica-em-flash-para-manipulacao-e-tratamento-de-documentos-xml"
+    },
+    {
+        "Título": "RDF e RDF Schema na representação de páginas do portal CEULP/ULBRA",
+        "Membros": [
+            "Danilo de Abreu Noleto",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/rdf-e-rdf-schema-na-representacao-de-paginas-do-portal-ceulp-ulbra"
+    },
+    {
+        "Título": "Resolvendo o Problema do Cavalo do Xadrez Utilizando Algoritmo Genético",
+        "Membros": [
+            "Alexandre Tadeu Rossini da Silva",
+            "Gustavo Setúbal Nazareno",
+            "André Marcelo Schneider"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/resolvendo-o-problema-do-cavalo-do-xadrez-utilizando-algoritmo-genetico"
+    },
+    {
+        "Título": "Informática na Educação Baseado em Data Warehouse com Aplicação na Gestão Ambiental",
+        "Membros": [
+            "Alexandre Koball",
+            "Diogo de C. Micheluzzi",
+            "Dr. Oscar Dalfovo",
+            "Ricardo Alencar de Azambuja",
+            "Paulo Roberto Dias"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/informatica-na-educacao-baseado-em-data-warehouse-com-aplicacao-na-gestao-ambiental"
+    },
+    {
+        "Título": "Modelo de Interfaces Adaptativas utilizando Redes Bayesianas",
+        "Membros": [
+            "Fernando Luiz de Oliveira",
+            "Sabrina Bet",
+            "Anderson Luiz de Oliveira",
+            "Silvia Modesto Nassar",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/modelo-de-interfaces-adaptativas-utilizando-redes-bayesianas"
+    },
+    {
+        "Título": "SLAG – Resolvendo o Problema do Caixeiro Viajante Utilizando Algoritmos Genéticos",
+        "Membros": [
+            "Fredson Vieira Costa",
+            "Fábio Silveira Vidal",
+            "Claudomiro Moura Gomes André"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/slag-resolvendo-o-problema-do-caixeiro-viajante-utilizando-algoritmos-geneticos"
+    },
+    {
+        "Título": "Comunidades Virtuais para Entretenimento Digital: Classificação e Concepção",
+        "Membros": [
+            "Adriano Gheller Bruschi",
+            "Daniel Weller"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/comunidades-virtuais-para-entretenimento-digital-classificacao-e-concepcao"
+    },
+    {
+        "Título": "Protótipo de um Sistema Especialista para Análise de Crédito de Pessoas Físicas",
+        "Membros": [
+            "Roberto Heinzle",
+            "Wantoir Feiten",
+            "Érico Olavo Weissheimer"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/prototipo-de-um-sistema-especialista-para-analise-de-credito-de-pessoas-fisicas"
+    },
+    {
+        "Título": "Integração de uma aplicação WAP com o PHP",
+        "Membros": [
+            "Jacques Schreiber",
+            "Janice Inês Deters"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/integracao-de-uma-aplicacao-wap-com-o-php"
+    },
+    {
+        "Título": "Um estudo comparativo dos sistemas de busca na web",
+        "Membros": [
+            "Janice Inês Deters",
+            "Silsomar Flôres Adaime"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/um-estudo-comparativo-dos-sistemas-de-busca-na-web"
+    },
+    {
+        "Título": "ADMnet – Monitoramento de estações em uma LAN, baseado em Sistemas Distribuídos",
+        "Membros": [
+            "Claudio Eduardo Oliveira",
+            "Francisco W. M. P. Hirano",
+            "Janine Harume P. Hirano",
+            "Wender Macedo de Souza"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/admnet-monitoramento-de-estacoes-em-uma-lan-baseado-em-sistemas-distribuidos"
+    },
+    {
+        "Título": "Um estudo sobre esquemas para documentos XML",
+        "Membros": [
+            "Marcus Barbosa Pinto",
+            "Deise de Brum Saccol"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/um-estudo-sobre-esquemas-para-documentos-xml"
+    },
+    {
+        "Título": "Previsão de Vendas para Artigos de Confecção utilizando Redes Bayesianas – Um caso prático",
+        "Membros": [
+            "Sandro Bertotti",
+            "Mirian de Luca S. Caetano",
+            "Paulo S. S. Borges"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/previsao-de-vendas-para-artigos-de-confeccao-utilizando-redes-bayesianas-um-caso-pratico"
+    },
+    {
+        "Título": "Um comparativo entre SQL e linguagens de consulta a dados XML",
+        "Membros": [
+            "Michael Schuenck dos Santos",
+            "Deise de Brum Saccol"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/um-comparativo-entre-sql-e-linguagens-de-consulta-a-dados-xml"
+    },
+    {
+        "Título": "Utilização de Rede Bayesiana Para Auxílio de Tomada de Decisão na Escolha de Clientela de Games",
+        "Membros": [
+            "Andrei Luis Ferrari",
+            "Oscar Dalfovo Dr",
+            "Pedro Sidnei Zanchett",
+            "Silvia Modesto Nassar",
+            "Dra"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/utilizacao-de-rede-bayesiana-para-auxilio-de-tomada-de-decisao-na-escolha-de-clientela-de-games"
+    },
+    {
+        "Título": "NeuralTrainer – Software Genérico para o Treinamento de Redes Neurais Multilayer Perceptron com Aprendizado Supervisionado por Retropropagação de Erros, Um Caso de Uso: OCR (Optical Character Recognition)",
+        "Membros": [
+            "Gustavo Setúbal Nazareno",
+            "Alexandre Tadeu Rossini da Silva",
+            "André Marcelo Schneider"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/neuraltrainer-software-generico-para-o-treinamento-de-redes-neurais-multilayer-perceptron-com-aprendizado-supervisionado-por-retropropagacao-de-erros-um-caso-de-uso-ocr-optical-character"
+    },
+    {
+        "Título": "ONTOINFOJUS: um Modelo de Domínio baseado em Ontologias para o Acesso à Informação na Área Jurídica",
+        "Membros": [
+            "Alisson Neres Lindoso",
+            "Ivo da Cunha Serra",
+            "Rosario Girardi"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/ontoinfojus-um-modelo-de-dominio-baseado-em-ontologias-para-o-acesso-a-informacao-na-area-juridica"
+    },
+    {
+        "Título": "Uma Abordagem Gerativa para a Engenharia de Domínio Multiagente",
+        "Membros": [
+            "Ivo da Cunha Serra",
+            "Rosario Girardi"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/uma-abordagem-gerativa-para-a-engenharia-de-dominio-multiagente"
+    },
+    {
+        "Título": "Estrutura da rede celular: Um meio de acesso a Web",
+        "Membros": [
+            "Getúlio Spalding Alves",
+            "Willingthon Pavan",
+            "José Maurício Fernandes"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/estrutura-da-rede-celular-um-meio-de-acesso-a-web"
+    },
+    {
+        "Título": "IonoSoft – Software Para Análise de Ionogramas",
+        "Membros": [
+            "D`ilton Moreira Silveira",
+            "Washington L. C. Lima",
+            "Eduardo K. Piveta"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/ionosoft-software-para-analise-de-ionogramas"
+    },
+    {
+        "Título": "Case de uma ferramenta assistente de atualização de versões de software em uma empresa desenvolvedora de sistemas",
+        "Membros": [
+            "Dennis Cezar Metzner",
+            "Dr. Oscar Dalfovo",
+            "Ricardo Alencar de Azambuja",
+            "Paulo Roberto Dias"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/case-de-uma-ferramenta-assistente-de-atualizacao-de-versoes-de-software-em-uma-empresa-desenvolvedora-de-sistemas"
+    },
+    {
+        "Título": "OWL e Protégé-2000 na definição de uma ontologia para o domínio “Universidade”",
+        "Membros": [
+            "Pollyane de Almeida Lustosa",
+            "Fabiano Fagundes",
+            "Parcilene F. de Brito"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/owl-e-protege-2000-na-definicao-de-uma-ontologia-para-o-dominio-universidade"
+    },
+    {
+        "Título": "Programação Orientada a Aspectos em AspectJ",
+        "Membros": [
+            "Elaine da Silva Monteiro",
+            "Eduardo Kessler Piveta"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/programacao-orientada-a-aspectos-em-aspectj"
+    },
+    {
+        "Título": "XML E DOM no desenvolvimento de um Sistema de Armazenamento e Manipulação de Documentos Jurídicos",
+        "Membros": [
+            "Bruno Vilar",
+            "Thiago da Silva Borges",
+            "Parcilene Fernandes de Brito",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/xml-e-dom-no-desenvolvimento-de-um-sistema-de-armazenamento-e-manipulacao-de-documentos-juridicos"
+    },
+    {
+        "Título": "Editor Gráfico para Sistemas Multimídia Baseado em HTSPN",
+        "Membros": [
+            "Carlos Eduardo de Lima",
+            "Jânio Elias Teixeira Júnior",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/editor-grafico-para-sistemas-multimidia-baseado-em-htspn"
+    },
+    {
+        "Título": "Player para Sincronização Multimídia Utilizando Especificação Baseada em Redes de Petri – HTSPN",
+        "Membros": [
+            "Álvaro Nunes Prestes",
+            "André Mesquita Rincon",
+            "Jânio Elias Teixeira Júnior",
+            "Carlos Eduardo de Lima",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/player-para-sincronizacao-multimidia-utilizando-especificacao-baseada-em-redes-de-petri-htspn"
+    },
+    {
+        "Título": "Implementação de uma Ferramenta de Edição de Texto Colaborativa",
+        "Membros": [
+            "Paulo Roberto Gonçalves",
+            "Thereza Patrícia P. Padilha"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/implementacao-de-uma-ferramenta-de-edicao-de-texto-colaborativa"
+    },
+    {
+        "Título": "Um Modelo do Aprendizado de Grupos de Alunos em Ambientes Colaborativos",
+        "Membros": [
+            "Leandro Maciel Almeida",
+            "Thereza Patrícia P. Padilha"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/um-modelo-do-aprendizado-de-grupos-de-alunos-em-ambientes-colaborativos"
+    },
+    {
+        "Título": "Utilização da API Jena para a manipulação de uma ontologia representada em RDF",
+        "Membros": [
+            "Danilo de Abreu Noleto",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/utilizacao-da-api-jena-para-a-manipulacao-de-uma-ontologia-representada-em-rdf"
+    },
+    {
+        "Título": "Análise e Proposta de Implantação de um Ambiente de Rede utilizando o Protocolo IPv6",
+        "Membros": [
+            "Fernando Zucuni Martini",
+            "Madianita Bogo"
+        ],
+        "Ano": 2003,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2003/artigos/analise-e-proposta-de-implantacao-de-um-ambiente-de-rede-utilizando-o-protocolo-ipv6"
+    },
+    {
+        "Título": "PROTÓTIPO DE UM SISTEMA DE AUXÍLIO À LOCALIZAÇÃO NO CEULP/ULBRA UTILIZANDO IMAGENS VETORIAIS SCALABLE VECTOR GRAPHICS",
+        "Membros": [
+            "Alex Coelho",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/prototipo-de-um-sistema-de-auxilio-a-localizacao-no-ceulp-ulbra-utilizando-imagens-vetoriais-scalable-vector-graphics"
+    },
+    {
+        "Título": "Estruturação e Implementação de um Sistema de Metabusca",
+        "Membros": [
+            "Anderson Luiz de Oliveira",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/estruturacao-e-implementacao-de-um-sistema-de-metabusca"
+    },
+    {
+        "Título": "Parser para Fórmulas da Lógica Quantificacional Armazenadas em XML",
+        "Membros": [
+            "Bruno Vilar",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/parser-para-formulas-da-logica-quantificacional-armazenadas-em-xml"
+    },
+    {
+        "Título": "MAPAS CONCEITUAIS E GRAFOS CONCEITUAIS: UM ESTUDO COMPARATIVO",
+        "Membros": [
+            "André Mesquita Rincon",
+            "Carlos Eduardo de Lima",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/mapas-conceituais-e-grafos-conceituais-um-estudo-comparativo"
+    },
+    {
+        "Título": "Utilização de Mapas de Tópicos no Desenvolvimento de Hiperdocumentos Educacionais",
+        "Membros": [
+            "Carlos Eduardo de Lima",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/utilizacao-de-mapas-de-topicos-no-desenvolvimento-de-hiperdocumentos-educacionais"
+    },
+    {
+        "Título": "Solução ao Processamento Maciço de Dados e Limite da Freqüência de Clock com o Uso de Aglomerado de Computadores por Meio da Hibridização de um Cluster de Alto Desempenho com um de Balanceamento de Carga",
+        "Membros": [
+            "Gabriela Batista Leão",
+            "Fabian Corrêa Cardoso"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/solucao-ao-processamento-macico-de-dados-e-limite-da-frequencia-de-clock-com-o-uso-de-aglomerado-de-computadores-por-meio-da-hibridizacao-de-um-cluster-de-alto-desempenho-com-um-de-balanceamento-de-ca"
+    },
+    {
+        "Título": "Desenvolvimento de um Cluster de Alto Desempenho com PVM",
+        "Membros": [
+            "Daniel Cândido de Oliveira",
+            "Yzaac Gonçalves da Silva",
+            "Madianita Bogo"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/desenvolvimento-de-um-cluster-de-alto-desempenho-com-pvm"
+    },
+    {
+        "Título": "Transformação de Documentos XML em Bases de Dados Relacionais Utilizando ASP.NET",
+        "Membros": [
+            "D’Ilton Moreira Silveira",
+            "Fabiano Fagundes",
+            "Deise de Brum Saccol"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/transformacao-de-documentos-xml-em-bases-de-dados-relacionais-utilizando-asp-net"
+    },
+    {
+        "Título": "Um Exemplo da Modelagem de um Domínio Bancário Utilizando a Orientação a Aspectos",
+        "Membros": [
+            "Elaine da Silva Monteiro",
+            "Cristina D’ornellas Filipakis"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/um-exemplo-da-modelagem-de-um-dominio-bancario-utilizando-a-orientacao-a-aspectos"
+    },
+    {
+        "Título": "A utilização do JSWDP para construção de Web Services",
+        "Membros": [
+            "Fabiana Ferreira Cardoso",
+            "Francisco A. S. Júnior",
+            "Madianita Bogo"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/a-utilizacao-do-jswdp-para-construcao-de-web-services"
+    },
+    {
+        "Título": "Mineração de Aspectos: Conceitos, Métodos e Ferramentas",
+        "Membros": [
+            "Leandro Maciel Almeida",
+            "Thereza Patrícia Pereira Padilha"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/mineracao-de-aspectos-conceitos-metodos-e-ferramentas"
+    },
+    {
+        "Título": "Desenvolvimento de um gerador gráfico de consultas SQL via Web utilizando a plataforma .NET",
+        "Membros": [
+            "Lucas Roberto Bechert Schmitz",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/desenvolvimento-de-um-gerador-grafico-de-consultas-sql-via-web-utilizando-a-plataforma-net"
+    },
+    {
+        "Título": "Análise da Utilização do IPSec como Garantia de Segurança na Comunicação em Redes TCP/IP",
+        "Membros": [
+            "Luis Godinho Junior",
+            "Madianita Bogo"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/analise-da-utilizacao-do-ipsec-como-garantia-de-seguranca-na-comunicacao-em-redes-tcp-ip"
+    },
+    {
+        "Título": "Utilização da Reflexão Computacional para Implementação de um monitor de software Orientado a Objetos em Java",
+        "Membros": [
+            "Fabio Cordova de Sousa",
+            "Marcio Carlos Grott"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/utilizacao-da-reflexao-computacional-para-implementacao-de-um-monitor-de-software-orientado-a-objetos-em-java"
+    },
+    {
+        "Título": "O padrão RDF na descrição de imagens",
+        "Membros": [
+            "Edeilson Milhomem da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/o-padrao-rdf-na-descricao-de-imagens"
+    },
+    {
+        "Título": "Utilização da OWL na definição de uma ontologia para o Currículo Lattes através de uma seqüência de etapas",
+        "Membros": [
+            "Nalva Neila Alves da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/utilizacao-da-owl-na-definicao-de-uma-ontologia-para-o-curriculo-lattes-atraves-de-uma-sequencia-de-etapas"
+    },
+    {
+        "Título": "OWL no Desenvolvimento de uma Ontologia para um Sistema de Inteligência Competitiva",
+        "Membros": [
+            "Pollyane de Almeida Lustosa",
+            "Darlene Teixeira",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/owl-no-desenvolvimento-de-uma-ontologia-para-um-sistema-de-inteligencia-competitiva"
+    },
+    {
+        "Título": "Manipulação de uma ontologia desenvolvida em OWL através da utilização da API JENA 2 Ontology",
+        "Membros": [
+            "Paulo Roberto Gonçalves",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/manipulacao-de-uma-ontologia-desenvolvida-em-owl-atraves-da-utilizacao-da-api-jena-2-ontology"
+    },
+    {
+        "Título": "MINC – Ferramenta de Gerenciamento e Monitoramento de Hosts",
+        "Membros": [
+            "Huander Leão",
+            "Leandro Anchieta Thomas",
+            "Rodrigo Cândido Borges",
+            "Welter Martins de Almeida Júnior",
+            "Maxweel Silva Carmo"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/minc-ferramenta-de-gerenciamento-e-monitoramento-de-hosts"
+    },
+    {
+        "Título": "MODELAGEM E VISUALIZAÇÃO DE AMBIENTES VIRTUAIS NA WEB",
+        "Membros": [
+            "Verônica Stocchi Marinho",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/modelagem-e-visualizacao-de-ambientes-virtuais-na-web"
+    },
+    {
+        "Título": "Implementação de um banco de dados para a gestão de bacias hidrográficas: comparação de sistemas de informações geográficas estruturado em arquivos e em geodatabase",
+        "Membros": [
+            "Vivian Facundes Dantas",
+            "Gonzalo Álvaro Vázquez Fernández"
+        ],
+        "Ano": 2004,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2004/artigos/implementacao-de-um-banco-de-dados-para-a-gestao-de-bacias-hidrograficas-comparacao-de-sistemas-de-informacoes-geograficas-estruturado-em-arquivos-e-em-geodatabase"
+    },
+    {
+        "Título": "Análise da Segurança em Redes Puramente Ipv6",
+        "Membros": [
+            "Luis Godinho Júnior",
+            "Jarbas Pereira Lopes Sousa",
+            "Robert Mady Nunes",
+            "Madianita Bogo"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/analise-da-seguranca-em-redes-puramente-ipv6"
+    },
+    {
+        "Título": "Aplicação de uma Metaheurística GRASP para o Problema da Árvore de Steiner em Grafos Direcionados",
+        "Membros": [
+            "Marcelo Lisboa Rocha",
+            "Sóstenes Pereira Gomes"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/aplicacao-de-uma-metaheuristica-grasp-para-o-problema-da-arvore-de-steiner-em-grafos-direcionados"
+    },
+    {
+        "Título": "COCOMO II – Um modelo para estimativa de custos de Gerência de Projetos",
+        "Membros": [
+            "Pablo Ariel do Prado López"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/cocomo-ii-um-modelo-para-estimativa-de-custos-de-gerencia-de-projetos"
+    },
+    {
+        "Título": "Definição de uma Ontologia em OWL para Representação de Conteúdos Educacionais",
+        "Membros": [
+            "Raquel Elias Carneiro",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/definicao-de-uma-ontologia-em-owl-para-representacao-de-conteudos-educacionais"
+    },
+    {
+        "Título": "eGs 3.0 (electrical GEOPHYSICS suite) – Pacote de programas para modelagem e interpretação de dados geofísicos elétricos e eletromagnéticos",
+        "Membros": [
+            "Glauco Lira Pereira",
+            "Luiz Rijo",
+            "Rodrigo Erasmo da C. Silva"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/egs-3-0-electrical-geophysics-suite-pacote-de-programas-para-modelagem-e-interpretacao-de-dados-geofisicos-eletricos-e-eletromagneticos"
+    },
+    {
+        "Título": "Estudo comparativo das API’s JAX-RPC e JAXM na construção de Web Services",
+        "Membros": [
+            "Danielle Corrêa Ribeiro",
+            "Elizabeth Ma Martinho da Silva",
+            "Francisco A. S. Júnior",
+            "Thatiane de Oliveira Rosa",
+            "Madianita Bogo"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/estudo-comparativo-das-apis-jax-rpc-e-jaxm-na-construcao-de-web-services"
+    },
+    {
+        "Título": "L-EditXML: Ambiente para Manipulação e Apresentação das Etapas de Prova de Fórmulas da Lógica Quantificacional",
+        "Membros": [
+            "Bruno Vilar",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/l-editxml-ambiente-para-manipulacao-e-apresentacao-das-etapas-de-prova-de-formulas-da-logica-quantificacional"
+    },
+    {
+        "Título": "Modelagem do Processo de Aprendizado Colaborativo Através de Redes Bayesianas",
+        "Membros": [
+            "João Paulo Valdivieso Borges",
+            "Thereza Patrícia Pereira Padilha"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/modelagem-do-processo-de-aprendizado-colaborativo-atraves-de-redes-bayesianas"
+    },
+    {
+        "Título": "Ontologias no Desenvolvimento de Apresentação Hipermídia para Sistemas Adaptativos",
+        "Membros": [
+            "Bruno Vilar",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/ontologias-no-desenvolvimento-de-apresentacao-hipermidia-para-sistemas-adaptativos"
+    },
+    {
+        "Título": "ProGerWMI: Utilizando WMI para a Construção do Protótipo de uma Ferramenta para o Gerenciamento de Redes",
+        "Membros": [
+            "Jorges Borges Figueiredo",
+            "Edeilson Milhomem da Silva",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/progerwmi-utilizando-wmi-para-a-construcao-do-prototipo-de-uma-ferramenta-para-o-gerenciamento-de-redes"
+    },
+    {
+        "Título": "Proposta de Adaptação do Webvox a Internet com XML",
+        "Membros": [
+            "Tatiana B. de Oliveira",
+            "Márcia Lilian Sandri",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/proposta-de-adaptacao-do-webvox-a-internet-com-xml"
+    },
+    {
+        "Título": "RSS no desenvolvimento de uma Central de Notícias",
+        "Membros": [
+            "Darley Passarin",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/rss-no-desenvolvimento-de-uma-central-de-noticias"
+    },
+    {
+        "Título": "Sistema de gerenciamento, controle e auditoria de computadores e usuários em uma rede local.",
+        "Membros": [
+            "Thiago Magalhães B. Rodrigues",
+            "Wanderson Carvalho Bragança",
+            "Ronivaldo Veloso Pugas"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/sistema-de-gerenciamento-controle-e-auditoria-de-computadores-e-usuarios-em-uma-rede-local"
+    },
+    {
+        "Título": "Um Protótipo de Editor de Imagens via Web",
+        "Membros": [
+            "Thiago Silva Borges",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/um-prototipo-de-editor-de-imagens-via-web"
+    },
+    {
+        "Título": "Uma Heurística Gulosa para o Problema de Bin Packing Bidimensional",
+        "Membros": [
+            "Leandro Dias Costa",
+            "Luiz da Silva Rosa e Marcelo Lisboa Rocha"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/uma-heuristica-gulosa-para-o-problema-de-bin-packing-bidimensional"
+    },
+    {
+        "Título": "Uma Metaheurística GRASP para o Problema da Árvore Geradora de Custo Mínimo com Grupamentos",
+        "Membros": [
+            "Marcelo Lisboa Rocha e Fabiano Vieira de Alvarenga"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/uma-metaheuristica-grasp-para-o-problema-da-arvore-geradora-de-custo-minimo-com-grupamentos"
+    },
+    {
+        "Título": "Utilização de XSL-FO na Transformação de Uma Ontologia",
+        "Membros": [
+            "Márcia Lílian Sandri",
+            "Letícia Câmara Ferreira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2005,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2005/artigos/utilizacao-de-xsl-fo-na-transformacao-de-uma-ontologia"
+    },
+    {
+        "Título": "MonoXML: Uma Ferramenta para Formatação Automática de Monografias",
+        "Membros": [
+            "Letícia Câmara Ferreira",
+            "Ricardo Cardoso de Almeida",
+            "Fabio Castro Araújo",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/monoxml-uma-ferramenta-para-formatacao-automatica-de-monografias"
+    },
+    {
+        "Título": "Sistemas Hipermídias Adaptativos com modelo de Domínio definido por Ontologias",
+        "Membros": [
+            "Bruno Vilar",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/sistemas-hipermidias-adaptativos-com-modelo-de-dominio-definido-por-ontologias"
+    },
+    {
+        "Título": "Proposta de Desenvolvimento de um Agente Inteligente móvel a ser Utilizado na Rede de Computadores do CEULP/ULBRA",
+        "Membros": [
+            "Heloise Acco Tives",
+            "Igor Flávio Souza",
+            "Kátia Gomes da Silva",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/proposta-de-desenvolvimento-de-um-agente-inteligente-movel-a-ser-utilizado-na-rede-de-computadores-do-ceulp-ulbra"
+    },
+    {
+        "Título": "Derivando Use Cases a partir da Modelagem Organizacional pela Técnica I",
+        "Membros": [
+            "Stéfan de Oliveira",
+            "Cristina Filipakis"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/derivando-use-cases-a-partir-da-modelagem-organizacional-pela-tecnica-i"
+    },
+    {
+        "Título": "Implementação de Políticas de Acesso ao Data Webhouse do Hemovida",
+        "Membros": [
+            "Kênia Dias Zorzin",
+            "Robson de Castro Nery",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/implementacao-de-politicas-de-acesso-ao-data-webhouse-do-hemovida"
+    },
+    {
+        "Título": "Extração de Regras Fuzzy para Previsão de Séries Temporais com Universo Dinâmico",
+        "Membros": [
+            "Alexandre Tadeu Rossini da Silva",
+            "Yuri da Silva Ferreira"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/extracao-de-regras-fuzzy-para-previsao-de-series-temporais-com-universo-dinamico"
+    },
+    {
+        "Título": "Relação Web Services e B2B: estudo de caso Locadora de Veículos",
+        "Membros": [
+            "Luiz Wagner Araújo",
+            "Madianita Bogo"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/relacao-web-services-e-b2b-estudo-de-caso-locadora-de-veiculos"
+    },
+    {
+        "Título": "Ferramenta SIG e SVGMAPPER: Desenvolvimento de um Mapa SGV para Web",
+        "Membros": [
+            "Antonio M. A. Ferreira",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/ferramenta-sig-e-svgmapper-desenvolvimento-de-um-mapa-sgv-para-web"
+    },
+    {
+        "Título": "Uso do Processo Analítico Hierárquico (PAH) para Identificação de Áreas de Potencial Produtivo de Soja no Estado do Tocantins",
+        "Membros": [
+            "Bruno Tácito Morais de Oliveira",
+            "Gonzalo Álvaro Vazquez Fernandez"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/uso-do-processo-analitico-hierarquico-pah-para-identificacao-de-areas-de-potencial-produtivo-de-soja-no-estado-do-tocantins"
+    },
+    {
+        "Título": "Estudo Comparativo entre os Protocolos TCP, UDP e SCTP",
+        "Membros": [
+            "Robert Mady Nunes",
+            "Heloise Acco Tives",
+            "Madianita Bogo"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/estudo-comparativo-entre-os-protocolos-tcp-udp-e-sctp"
+    },
+    {
+        "Título": "Aplicações de Heurísticas à Sobrevivência de Redes",
+        "Membros": [
+            "Rosemir Barbosa Silva",
+            "Fabiano Vieira de Alvarenga",
+            "Marcelo Lisboa Rocha"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/aplicacoes-de-heuristicas-a-sobrevivencia-de-redes"
+    },
+    {
+        "Título": "Análise de Desempenho da Execução de Aplicações Paralelas em Clusters Construídos com a API JPVM",
+        "Membros": [
+            "Daniel de Oliveira Canoli",
+            "Madianita Bogo"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/analise-de-desempenho-da-execucao-de-aplicacoes-paralelas-em-clusters-construidos-com-a-api-jpvm"
+    },
+    {
+        "Título": "Alinhamento de Sequências Biológicas utilizando Algoritmos Genéticos Diplóides",
+        "Membros": [
+            "Fredson Vieira Costa",
+            "Ana Lyvia Vieira Silva",
+            "Hellen Souza Luz"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/alinhamento-de-sequencias-biologicas-utilizando-algoritmos-geneticos-diploides"
+    },
+    {
+        "Título": "Construção de um Modelo de Data Warehouse para os Programas PET e PEMSEMA da Secretária de Assistência Social de Palmas",
+        "Membros": [
+            "Danielle Côrrea Ribeiro",
+            "Elizabeth Maria Martinho da Silva",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/construcao-de-um-modelo-de-data-warehouse-para-os-programas-pet-e-pemsema-da-secretaria-de-assistencia-social-de-palmas"
+    },
+    {
+        "Título": "Um Estudo sobre Formação de Equipes para o Futebol de Robôs Simulado da RoboCup",
+        "Membros": [
+            "Alexandre Tadeu Rossini da Silva",
+            "Marco Antonio Firmino de Souza",
+            "Rosimarci Pacheco Tonaco"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/um-estudo-sobre-formacao-de-equipes-para-o-futebol-de-robos-simulado-da-robocup"
+    },
+    {
+        "Título": "Estudo e Comparação das Ferramentas NHibernate e Gentle.Net no Mapeamento de objetos para um Banco de Dados Relacional",
+        "Membros": [
+            "Yzaac Gonçalves da Silva",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/estudo-e-comparacao-das-ferramentas-nhibernate-e-gentle-net-no-mapeamento-de-objetos-para-um-banco-de-dados-relacional"
+    },
+    {
+        "Título": "A Utilização de Mapas Conceituais na Construção Automática de Hiperdocumentos Educacionais",
+        "Membros": [
+            "Ricardo Cardoso de Almeida",
+            "Fabio Castro Araújo",
+            "Fabiano Fagunde"
+        ],
+        "Ano": 2006,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2006/artigos/a-utilizacao-de-mapas-conceituais-na-construcao-automatica-de-hiperdocumentos-educacionais"
+    },
+    {
+        "Título": "Aplicação de um Algoritmo Genético para Solucionar o Problema de Comparação entre Sequências biológicas: Proposta de Função de Aptidão",
+        "Membros": [
+            "Thatiane Oliveira Rosa",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/aplicacao-de-um-algoritmo-genetico-para-solucionar-o-problema-de-comparacao-entre-sequencias-biologicas-proposta-de-funcao-de-aptidao"
+    },
+    {
+        "Título": "Desenvolvimento de um Aplicativo Gerencial Web utilizando o Paradigma Orientado a Aspectos",
+        "Membros": [
+            "Danielle Corrêa Ribeiro",
+            "Cristina D’Ornellas Filipakis"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/desenvolvimento-de-um-aplicativo-gerencial-web-utilizando-o-paradigma-orientado-a-aspectos"
+    },
+    {
+        "Título": "Estudo e desenvolvimento do Modelo de Adaptação para sistemas de hipermídia Adaptativa de caráter educacional baseados em Ontologia",
+        "Membros": [
+            "Elizabeth Maria Martinho da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/estudo-e-desenvolvimento-do-modelo-de-adaptacao-para-sistemas-de-hipermidia-adaptativa-de-carater-educacional-baseados-em-ontologia"
+    },
+    {
+        "Título": "Qualidade de serviço em Internet Predial: Procedimentos Tecnológicos em Condomínios residências",
+        "Membros": [
+            "Bruno Viana Coutinho",
+            "Francisco Willians Makoto Placido Hirano"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/qualidade-de-servico-em-internet-predial-procedimentos-tecnologicos-em-condominios-residencias"
+    },
+    {
+        "Título": "Implementação de uma Ferramenta de Apoio à Auditoria em Redes Windows",
+        "Membros": [
+            "José Neto Luz Carneiro",
+            "Ricardo Marx Costa Soares de Jesus",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/implementacao-de-uma-ferramenta-de-apoio-a-auditoria-em-redes-windows"
+    },
+    {
+        "Título": "Elaboração de um Simulador Empresarial",
+        "Membros": [
+            "Luis Carlos Niedersberg"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/elaboracao-de-um-simulador-empresarial"
+    },
+    {
+        "Título": "Construção de um Data Warehouse e Aplicação do Processo KDD sobre os Dados Estatísticos Produzidos pelo Inep",
+        "Membros": [
+            "Warley Ferreira Gois",
+            "Thatiane Oliveira Rosa",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/construcao-de-um-data-warehouse-e-aplicacao-do-processo-kdd-sobre-os-dados-estatisticos-produzidos-pelo-inep"
+    },
+    {
+        "Título": "Uma Proposta de Otimização do Transporte Público da Cidade de Gurupi",
+        "Membros": [
+            "Alex Rodrigues Silveira",
+            "Marcelo Lisboa Rocha"
+        ],
+        "Ano": 2007,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2007/artigos/uma-proposta-de-otimizacao-do-transporte-publico-da-cidade-de-gurupi"
+    },
+    {
+        "Título": "Estudo da Arquitetura da informação na Criação de um Portal Acadêmico",
+        "Membros": [
+            "Igor Flávio Souza",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/estudo-da-arquitetura-da-informacao-na-criacao-de-um-portal-academico"
+    },
+    {
+        "Título": "Adaptação de Sistemas de Ensino por Meio de Redes Bayesianas",
+        "Membros": [
+            "Elizabeth Maria Martinho da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/adaptacao-de-sistemas-de-ensino-por-meio-de-redes-bayesianas"
+    },
+    {
+        "Título": "Scrum: Proposta de Utilização em disciplinas de Desenvolvimento de Software",
+        "Membros": [
+            "Werly Teixeira Reinaldo",
+            "Cristina D’Ornellas Filipakis"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/scrum-proposta-de-utilizacao-em-disciplinas-de-desenvolvimento-de-software"
+    },
+    {
+        "Título": "Proposta de um mecanismo de caching para modelos RDF",
+        "Membros": [
+            "Fábio Castro Araújo",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/proposta-de-um-mecanismo-de-caching-para-modelos-rdf"
+    },
+    {
+        "Título": "Mapa Interativo on-line para imóveis: um Modulo baseado em GoogleMaps",
+        "Membros": [
+            "Sofia Larissa da Costa",
+            "Sandra Regina Rocha Silva",
+            "Moacir Florentino da Silva Junior"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/mapa-interativo-on-line-para-imoveis-um-modulo-baseado-em-googlemaps"
+    },
+    {
+        "Título": "Ambiente LSTP: solução para os LABINS do CEULP",
+        "Membros": [
+            "Andrew Silva de Lima",
+            "Ricardo Marx Costa Soares de Jesus",
+            "Madianita Bogo"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/ambiente-lstp-solucao-para-os-labins-do-ceulp"
+    },
+    {
+        "Título": "Algoritmo Genético e Algoritmo de Smith-Waterman: Uma Proposta para Resolução do Problema de Comparação entre Sequências Biológicas",
+        "Membros": [
+            "Thatiane de Oliveira Rosa",
+            "Jonatas Luiz Costa",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/algoritmo-genetico-e-algoritmo-de-smith-waterman-uma-proposta-para-resolucao-do-problema-de-comparacao-entre-sequencias-biologicas"
+    },
+    {
+        "Título": "Proposta de Algoritmo Genético Sequencial e Paralelo para o problema da Mochila",
+        "Membros": [
+            "Ricardo de Jesus Carvalho",
+            "Gustavo Andrade Lemos",
+            "Adenevaldo da Silva Machado Junior",
+            "Lairton Reis",
+            "Wilton Oliveira Ferreira",
+            "Marcelo Lisboa Rocha"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/proposta-de-algoritmo-genetico-sequencial-e-paralelo-para-o-problema-da-mochila"
+    },
+    {
+        "Título": "Problema de Localização de Facilidades Capacitadas com Tolerância a Falhas",
+        "Membros": [
+            "Dilerval Carvalho Silva",
+            "Marcelo Lisboa Rocha"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/problema-de-localizacao-de-facilidades-capacitadas-com-tolerancia-a-falhas"
+    },
+    {
+        "Título": "Modelos de Maturidade em Gerenciamento de Projetos. Uma Análise Crítica",
+        "Membros": [
+            "Cleyverson P. Costa",
+            "Jeneffer C. Ferreira",
+            "Alexandre J. H. de O. Luna",
+            "Hermano P. de Moura"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/modelos-de-maturidade-em-gerenciamento-de-projetos-uma-analise-critica"
+    },
+    {
+        "Título": "Uso da Gestão do Conhecimento na Engenharia de Requisitos",
+        "Membros": [
+            "Cleyverson P. Costa",
+            "Alexandre J. H. de O. Luna",
+            "Jeneffer C. Ferreira",
+            "Jaelson F. B. de Castro"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/uso-da-gestao-do-conhecimento-na-engenharia-de-requisitos"
+    },
+    {
+        "Título": "Classificação de Proteínas por Homologia Baseado em Redes Neurais Artificiais",
+        "Membros": [
+            "Ivo Sócrates Moraes de Oliveira",
+            "Fabiano Fagundes",
+            "Ary Henrique Morais de Oliveira"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/classificacao-de-proteinas-por-homologia-baseado-em-redes-neurais-artificiais"
+    },
+    {
+        "Título": "Sistema de Recomendação como Mecanismo para Promover Melhorias no Processo de Comunicação e Colaboração nas Organizações",
+        "Membros": [
+            "Edeilson M. Silva",
+            "Mario Godoy Neto",
+            "Robson Y. S. Oliveira",
+            "Ricardo A. Costa"
+        ],
+        "Ano": 2008,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2008/artigos/sistema-de-recomendacao-como-mecanismo-para-promover-melhorias-no-processo-de-comunicacao-e-colaboracao-nas-organizacoes"
+    },
+    {
+        "Título": "Comparativo entre protocolos de gerenciamento de Mobilidade",
+        "Membros": [
+            "Helder Cleber Almeida Pereira"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/comparativo-entre-protocolos-de-gerenciamento-de-mobilidade"
+    },
+    {
+        "Título": "Comportamento de personagens em jogos de computador",
+        "Membros": [
+            "Deise Miranda Borges",
+            "Rafael Gonçalves Barreira",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/comportamento-de-personagens-em-jogos-de-computador"
+    },
+    {
+        "Título": "CompWeb: Um repositório de componentes de Software Acessível por Web Services REST",
+        "Membros": [
+            "Leandro Oliveira Ferreira",
+            "Michael Schuenck"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/compweb-um-repositorio-de-componentes-de-software-acessivel-por-web-services-rest"
+    },
+    {
+        "Título": "Controle de uma Estufa Agrícola utilizando controlador Lógico Programável",
+        "Membros": [
+            "Nathália Amaral Carvalho",
+            "Hérveton de Melo Bezerra",
+            "Antonio Jeronimo Netto",
+            "Marcelo Lisboa Rocha"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/controle-de-uma-estufa-agricola-utilizando-controlador-logico-programavel"
+    },
+    {
+        "Título": "Desenvolvimento da Modelagem de uma Ferramenta para Gerenciar Aplicações SaaS",
+        "Membros": [
+            "Valéria Pereira Mota",
+            "Fernando Luiz de Oliveira",
+            "Isabel Pires da Silva",
+            "Roberto Mayer"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/desenvolvimento-da-modelagem-de-uma-ferramenta-para-gerenciar-aplicacoes-saas"
+    },
+    {
+        "Título": "Estimativa de Tamanho de Software utilizando APF e abordagem NESMA",
+        "Membros": [
+            "Werley Teixeira Reinaldo",
+            "Cristina D’Ornellas Filipakis"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/estimativa-de-tamanho-de-software-utilizando-apf-e-abordagem-nesma"
+    },
+    {
+        "Título": "Análise de Gerenciamento de Projeto de Software utilizando Metodologia Ágil XP e Scrum: Um estudo de caso Prático",
+        "Membros": [
+            "Márcia Savoine",
+            "Lucyano Martins",
+            "Mayton Rocha",
+            "Cirlene dos Santos"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/analise-de-gerenciamento-de-projeto-de-software-utilizando-metodologia-agil-xp-e-scrum-um-estudo-de-caso-pratico"
+    },
+    {
+        "Título": "Implementando maturidade e agilidade em uma fábrica de software através de Scrum e MPS.BR nível G",
+        "Membros": [
+            "Fernando Szimanski",
+            "Jones Albuquerque",
+            "Felipe Furtado"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/implementando-maturidade-e-agilidade-em-uma-fabrica-de-software-atraves-de-scrum-e-mps-br-nivel-g"
+    },
+    {
+        "Título": "Interfaces Dinâmicas e Adaptativas para Celulares",
+        "Membros": [
+            "Flavio Henrique Cardoso de Freitas",
+            "Silvano Maneck Malfatt"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/interfaces-dinamicas-e-adaptativas-para-celulares"
+    },
+    {
+        "Título": "Proposta de Um Algoritmo Genético para o Problema de Árvore de Steiner Euclidiana Tridimensional",
+        "Membros": [
+            "Marcelo Lisboa Rocha",
+            "Wellington Gomes Ribeiro"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/proposta-de-um-algoritmo-genetico-para-o-problema-de-arvore-de-steiner-euclidiana-tridimensional"
+    },
+    {
+        "Título": "Proposta de um jogo Educativo para Simular o Corpo humano baseado em Agentes Emocionais Hedonistas",
+        "Membros": [
+            "Deise Miranda Borges",
+            "Douglas Neves de Jesus",
+            "Luane Gomes Cunha",
+            "Naara Soares Negre",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/proposta-de-um-jogo-educativo-para-simular-o-corpo-humano-baseado-em-agentes-emocionais-hedonistas"
+    },
+    {
+        "Título": "Uma Abordagem no Uso de rede de Energia Elétrica para transferência de dados",
+        "Membros": [
+            "Timote Lima da Silva"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/uma-abordagem-no-uso-de-rede-de-energia-eletrica-para-transferencia-de-dados"
+    },
+    {
+        "Título": "União Rede Social e Marketing Viral para Ampliação da Concorrência em Processo seletivo (vestibular) de uma Instituição de Ensino Superior",
+        "Membros": [
+            "Heitor de Souza Miranda",
+            "Parcilene Fernandes de Brito",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/uniao-rede-social-e-marketing-viral-para-ampliacao-da-concorrencia-em-processo-seletivo-vestibular-de-uma-instituicao-de-ensino-superior"
+    },
+    {
+        "Título": "Uso do Netkit no Ensino de Roteamento Estático",
+        "Membros": [
+            "Nyl Marcos Soares Barbosa",
+            "Moisés Lima dos Anjos",
+            "Madianita Bogo"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/uso-do-netkit-no-ensino-de-roteamento-estatico"
+    },
+    {
+        "Título": "Utilização de Agentes Inteligentes no desenvolvimento de um Jogo RPG para dispositivos móveis",
+        "Membros": [
+            "Heitor de Souza Miranda",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/utilizacao-de-agentes-inteligentes-no-desenvolvimento-de-um-jogo-rpg-para-dispositivos-moveis"
+    },
+    {
+        "Título": "Utilização do Card Sorting na Implementação de um Sistema de Balanced Scorecard para Instituições de Ensino Superior",
+        "Membros": [
+            "Rafael Silvestre de Souza Vilela",
+            "Katia Morais de Carvalho",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2009,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2009/artigos/utilizacao-do-card-sorting-na-implementacao-de-um-sistema-de-balanced-scorecard-para-instituicoes-de-ensino-superior"
+    },
+    {
+        "Título": "Simulação de Rede MPLS Utilizando o Netkit",
+        "Membros": [
+            "Thiago Santos de Amorim",
+            "Ricardo Marx S. C. de Jesus",
+            "Madianita Bogo"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/simulacao-de-rede-mpls-utilizando-o-netkit"
+    },
+    {
+        "Título": "Análise e Comparação dos Sistemas de Recomendação de Produtos Existentes em Três Empresas de Comércio Eletrônico: Saraiva, Submarino e Amazon",
+        "Membros": [
+            "Deise Miranda Borges",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/analise-e-comparacao-dos-sistemas-de-recomendacao-de-produtos-existentes-em-tres-empresas-de-comercio-eletronico-saraiva-submarino-e-amazon"
+    },
+    {
+        "Título": "Uma Proposta de Algoritmo Genético para a Resolução do Problema das 8 Rainhas",
+        "Membros": [
+            "Valdirene Neves",
+            "Douglas Mendes de Brito",
+            "Moisés Lima",
+            "Raurício Mendes",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/uma-proposta-de-algoritmo-genetico-para-a-resolucao-do-problema-das-8-rainhas"
+    },
+    {
+        "Título": "Estudo Sobre Ontologia e sua Aplicação em uma Rede Social Acadêmica",
+        "Membros": [
+            "Bruno Bandeira Fernandes",
+            "Douglas Mendes de Brito",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/estudo-sobre-ontologia-e-sua-aplicacao-em-uma-rede-social-academica"
+    },
+    {
+        "Título": "Proposta de Agentes Inteligentes para Manipulação de Estereótipos e Recomendação de Ações em uma Rede de Gestão de Conhecimento",
+        "Membros": [
+            "Raurício Vital Mendes",
+            "Roneylson de Alencar Neiva",
+            "Wellington Rocha Santos",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/proposta-de-agentes-inteligentes-para-manipulacao-de-estereotipos-e-recomendacao-de-acoes-em-uma-rede-de-gestao-de-conhecimento"
+    },
+    {
+        "Título": "Utilizando Cenários Virtuais para a Simulação de Ambientes Domésticos Controlados por Celular",
+        "Membros": [
+            "Silvano Maneck Malfatti",
+            "Igor Yepes",
+            "Gabriel Lacerda dos Santos"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/utilizando-cenarios-virtuais-para-a-simulacao-de-ambientes-domesticos-controlados-por-celular"
+    },
+    {
+        "Título": "Trilado: Um Framework MVC desenvolvido em PHP",
+        "Membros": [
+            "Valdirene da Cruz Neves Júnior",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/trilado-um-framework-mvc-desenvolvido-em-php"
+    },
+    {
+        "Título": "Administração dos Sistemas de Informação da CRP Consultores: um estudo de caso",
+        "Membros": [
+            "Ivo Sócrates Moraes de Oliveira"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/administracao-dos-sistemas-de-informacao-da-crp-consultores-um-estudo-de-caso"
+    },
+    {
+        "Título": "Arquitetura de Informação: Estudo dos Conceitos e Aplicação na Área de Acesso Interno do Portal do CEULP/ULBRA",
+        "Membros": [
+            "Luane Gomes Cunha",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/arquitetura-de-informacao-estudo-dos-conceitos-e-aplicacao-na-area-de-acesso-interno-do-portal-do-ceulp-ulbra"
+    },
+    {
+        "Título": "Proposta de uma Criação de uma Rede Social Web Educacional",
+        "Membros": [
+            "Heitor de Sousa Miranda",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/proposta-de-uma-criacao-de-uma-rede-social-web-educacional"
+    },
+    {
+        "Título": "Análise do Monitoramento de Redes com Software Livre Utilizando Nagios",
+        "Membros": [
+            "Thiago Guimarães Tavares"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/analise-do-monitoramento-de-redes-com-software-livre-utilizando-nagios"
+    },
+    {
+        "Título": "Estudo sobre a utilização do conceito de folksonomia na definição de uma ontologia para uma Rede Social Acadêmica",
+        "Membros": [
+            "Joabe Medeiros Gonçalves",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/estudo-sobre-a-utilizacao-do-conceito-de-folksonomia-na-definicao-de-uma-ontologia-para-uma-rede-social-academica"
+    },
+    {
+        "Título": "Otimização de Processos da Gerencia de Configuração no TER – TO",
+        "Membros": [
+            "Paulo Henrique de Sousa",
+            "Jackson Gomes de Souza",
+            "Michael Schuenck dos Santos"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/otimizacao-de-processos-da-gerencia-de-configuracao-no-ter-to"
+    },
+    {
+        "Título": "Implementação do Serviço de IPTV em uma rede acadêmica: Um estudo de caso na Faculdade Católica do Tocantins",
+        "Membros": [
+            "Aline Diniz de Oliveira",
+            "Joaquim Pires de Oliveira",
+            "Kayllah Cunha dos Santos",
+            "Stéphany Moraes Martins",
+            "Umbelina Macedo dos Santos Filha"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/implementacao-do-servico-de-iptv-em-uma-rede-academica-um-estudo-de-caso-na-faculdade-catolica-do-tocantins"
+    },
+    {
+        "Título": "Proposta de representação padronizada de usuários web",
+        "Membros": [
+            "Diego Oliveira Rodrigues",
+            "Bruno Bandeira Fernandes",
+            "Edeilson Milhomem Silva"
+        ],
+        "Ano": 2010,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2010/artigos/proposta-de-representacao-padronizada-de-usuarios-web"
+    },
+    {
+        "Título": "Análise de confiança em redes sociais web: proposta de um algoritmo para inferência de confiança",
+        "Membros": [
+            "Diego Oliveira Rodrigues",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/analise-de-confianca-em-redes-sociais-web-proposta-de-um-algoritmo-para-inferencia-de-confianca"
+    },
+    {
+        "Título": "AntStudy: Proposta de definição de sequências de estudo utilizando Ant System",
+        "Membros": [
+            "Lucas Moreno de Araujo",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/antstudy-proposta-de-definicao-de-sequencias-de-estudo-utilizando-ant-system"
+    },
+    {
+        "Título": "Aplicação da Meta-Heurística ILS para o problema de Cobertura Conectividade e Roteamento em RSSF 2D Plana homogênea",
+        "Membros": [
+            "Wellington Gomes Ribeiro",
+            "José Elias Claudio Arroyo",
+            "André Gustavo dos Santos",
+            "Mauro Nacif Rocha"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/aplicacao-da-meta-heuristica-ils-para-o-problema-de-cobertura-conectividade-e-roteamento-em-rssf-2d-plana-homogenea"
+    },
+    {
+        "Título": "Definição de uma Ontologia de Tags para uma Rede Social Acadêmica",
+        "Membros": [
+            "Joabe Medeiros Gonçalves",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/definicao-de-uma-ontologia-de-tags-para-uma-rede-social-academica"
+    },
+    {
+        "Título": "Desenvolvimento de um Web Crawler para indexação de documentos científicos",
+        "Membros": [
+            "Heitor de Sousa Miranda",
+            "Rafael Gonçalves Barreira",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/desenvolvimento-de-um-web-crawler-para-indexacao-de-documentos-cientificos"
+    },
+    {
+        "Título": "Desenvolvimento de uma ferramenta de recomendação automática de produtos",
+        "Membros": [
+            "Deise Miranda Borges",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/desenvolvimento-de-uma-ferramenta-de-recomendacao-automatica-de-produtos"
+    },
+    {
+        "Título": "Desenvolvimento do Protótipo de um Jogo de Avaliação de Perfil de Atitudes Profissionais – PAP Game",
+        "Membros": [
+            "Warley Ferreira Gois",
+            "Jackson Gomes de Souza",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/desenvolvimento-do-prototipo-de-um-jogo-de-avaliacao-de-perfil-de-atitudes-profissionais-pap-game"
+    },
+    {
+        "Título": "Estudo da Importância de Aplicação do Conceito de Usabilidade em AVAS para Otimização do Processo de Aprendizagem",
+        "Membros": [
+            "Thatiane de Oliveira Rosa",
+            "Warley Ferreira Gois",
+            "Cecília Morgana Miranda Assunção",
+            "Leandro Andrade Guida",
+            "Darlene Teixeira Castro"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/estudo-da-importancia-de-aplicacao-do-conceito-de-usabilidade-em-avas-para-otimizacao-do-processo-de-aprendizagem"
+    },
+    {
+        "Título": "Estudo dos descritores de características primitivas",
+        "Membros": [
+            "Lucas Moreno de Araujo",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/estudo-dos-descritores-de-caracteristicas-primitivas"
+    },
+    {
+        "Título": "Estudo exploratório acerca do uso excessivo da internet por adolescentes",
+        "Membros": [
+            "Camila Soldera Carneiro",
+            "Ana Beatriz Dupré Silva"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/estudo-exploratorio-acerca-do-uso-excessivo-da-internet-por-adolescentes"
+    },
+    {
+        "Título": "Heurística para o problema de carregamento tridimensional de contêiner com restrições reais",
+        "Membros": [
+            "Thiago da Silva Arruda",
+            "Warley Gramacho da Silva"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/heuristica-para-o-problema-de-carregamento-tridimensional-de-conteiner-com-restricoes-reais"
+    },
+    {
+        "Título": "Metodologia FDD aplicada a especificação dos requisitos no processo GRE do nível G de maturidade do modelo MPS.BR",
+        "Membros": [
+            "Bruno Bandeira Fernandes",
+            "Gabriela Fachine Brito",
+            "Wisley Cristiano de Souza Milhomem",
+            "Cristina D’Ornellas Filipakis"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/metodologia-fdd-aplicada-a-especificacao-dos-requisitos-no-processo-gre-do-nivel-g-de-maturidade-do-modelo-mps-br"
+    },
+    {
+        "Título": "Objetos de Aprendizagem e Ontologia no desenvolvimento do módulo de material didático de uma rede social acadêmica",
+        "Membros": [
+            "Douglas Mendes de Brito",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/objetos-de-aprendizagem-e-ontologia-no-desenvolvimento-do-modulo-de-material-didatico-de-uma-rede-social-academica"
+    },
+    {
+        "Título": "Proposta de uma ferramenta de notificação de conteúdo do Twitter baseado em técnicas de Extração Automática de Tópicos e Clustering",
+        "Membros": [
+            "Rafael Gonçalves Barreira",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/proposta-de-uma-ferramenta-de-notificacao-de-conteudo-do-twitter-baseado-em-tecnicas-de-extracao-automatica-de-topicos-e-clustering"
+    },
+    {
+        "Título": "Desenvolvimento de um Aplicativo de Recomendação de Artigos Científicos para Materiais Didáticos",
+        "Membros": [
+            "Douglas Neves de Jesus",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/desenvolvimento-de-um-aplicativo-de-recomendacao-de-artigos-cientificos-para-materiais-didaticos"
+    },
+    {
+        "Título": "Protótipo de um Módulo de Brainstorm baseado em Mapas Conceituais para uma Rede Social Educacional Web",
+        "Membros": [
+            "Heitor de Sousa Miranda",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/prototipo-de-um-modulo-de-brainstorm-baseado-em-mapas-conceituais-para-uma-rede-social-educacional-web"
+    },
+    {
+        "Título": "Raa in music: proposta de um software baseado no Comércio Free",
+        "Membros": [
+            "Lucas Moreno de Araujo",
+            "Charles Alex Rockenbach",
+            "Jan Tarik Martins Nazorek",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2011,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2011/artigos/raa-in-music-proposta-de-um-software-baseado-no-comercio-free"
+    },
+    {
+        "Título": "Exploração de confiança para a proposta de um algoritmo de análise de reputação",
+        "Membros": [
+            "Diego Oliveira Rodrigues",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/exploracao-de-confianca-para-a-proposta-de-um-algoritmo-de-analise-de-reputacao"
+    },
+    {
+        "Título": "Simulação de ambientes de rede para suporte ao ensino de redes de computadores: Projeto e criação de novos ambientes",
+        "Membros": [
+            "Douglas José Ramalho",
+            "Madianita Bogo"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/simulacao-de-ambientes-de-rede-para-suporte-ao-ensino-de-redes-de-computadores-projeto-e-criacao-de-novos-ambientes"
+    },
+    {
+        "Título": "Aplicação de redes neurais artificiais para o diagnóstico de patologias traumato-ortopédicas dos membros inferiores",
+        "Membros": [
+            "Thearlismar Soares de Araújo",
+            "Fabiano Fagundes",
+            "Pierre Soares Brandão"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/aplicacao-de-redes-neurais-artificiais-para-o-diagnostico-de-patologias-traumato-ortopedicas-dos-membros-inferiores"
+    },
+    {
+        "Título": "Criação de um ambiente web de alto desempenho para o Portal CEULP/ULBRA",
+        "Membros": [
+            "Valdirene da Cruz Neves Junior",
+            "Jackson Gomes de Sousa"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/criacao-de-um-ambiente-web-de-alto-desempenho-para-o-portal-ceulp-ulbra"
+    },
+    {
+        "Título": "Desenvolvimento de um aplicativo de recomendação de artigos científicos para materiais didáticos",
+        "Membros": [
+            "Douglas Neves",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/desenvolvimento-de-um-aplicativo-de-recomendacao-de-artigos-cientificos-para-materiais-didaticos"
+    },
+    {
+        "Título": "Análise Experimental do uso de redes veiculares Ad Hoc no Norte do Tocantins",
+        "Membros": [
+            "Marcia M. Savoine",
+            "Rafyze U. Silva",
+            "Hylceffem M. Albuquerque",
+            "Ana Pauline C. Morais",
+            "Leandro N. Silva"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/analise-experimental-do-uso-de-redes-veiculares-ad-hoc-no-norte-do-tocantins"
+    },
+    {
+        "Título": "Integração do perfil do Konnen com outras redes sociais",
+        "Membros": [
+            "Diego Oliveira Rodrigues",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/integracao-do-perfil-do-konnen-com-outras-redes-sociais"
+    },
+    {
+        "Título": "Gestão de portfólio de novos produtos e projetos de inovação",
+        "Membros": [
+            "Gleibson Rodrigo Silva de Oliveira"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/gestao-de-portfolio-de-novos-produtos-e-projetos-de-inovacao"
+    },
+    {
+        "Título": "Implementação do algoritmo de seleção negativa para detecção de spams",
+        "Membros": [
+            "Luane Gomes Cunha",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/implementacao-do-algoritmo-de-selecao-negativa-para-deteccao-de-spams"
+    },
+    {
+        "Título": "Desenvolvimento do módulo de taxonomia de grupos para uma rede social acadêmica",
+        "Membros": [
+            "Felipe eduardo Bechert Schmitz",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/desenvolvimento-do-modulo-de-taxonomia-de-grupos-para-uma-rede-social-academica"
+    },
+    {
+        "Título": "Metodologia de desenvolvimento de software para a Fábrica de Software do CEULP/ULBRA",
+        "Membros": [
+            "Cleydiane Lima de Sousa",
+            "Jackson Gomes de Sousa."
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/metodologia-de-desenvolvimento-de-software-para-a-fabrica-de-software-do-ceulp-ulbra"
+    },
+    {
+        "Título": "Proposta de um sistema de recomendação de Especialistas aplicado a uma rede social educacional",
+        "Membros": [
+            "Charles Alex Rockenbach",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/proposta-de-um-sistema-de-recomendacao-de-especialistas-aplicado-a-uma-rede-social-educacional"
+    },
+    {
+        "Título": "Proposta de Utilização de FDD e APF para melhoria do processo de software",
+        "Membros": [
+            "Cristiane Ribeiro Cunha",
+            "Cristina D'Ornellas Filipakis"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/proposta-de-utilizacao-de-fdd-e-apf-para-melhoria-do-processo-de-software"
+    },
+    {
+        "Título": "Utilização da classe de banco de dados NOSQL como solução para manipulação de diversas estruturas de dados",
+        "Membros": [
+            "Ricardo Cardoso de Almeida",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/utilizacao-da-classe-de-banco-de-dados-nosql-como-solucao-para-manipulacao-de-diversas-estruturas-de-dados"
+    },
+    {
+        "Título": "Utilização da ferramenta RapidMiner no processo de análise de sentimentos",
+        "Membros": [
+            "Rafael Gonçalves",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2012,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2012/artigos/utilizacao-da-ferramenta-rapidminer-no-processo-de-analise-de-sentimentos"
+    },
+    {
+        "Título": "A integração de COBIT e ITIL no processo de Governança de TI em Instituições de Ensino Superior",
+        "Membros": [
+            "Igor Cristovão Gonçalves Santos",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/a-integracao-de-cobit-e-itil-no-processo-de-governanca-de-ti-em-instituicoes-de-ensino-superior"
+    },
+    {
+        "Título": "Abordagem para Identificação de Especialidades Demonstradas de Indivíduos",
+        "Membros": [
+            "Diego de Oliveira Rodrigues",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/abordagem-para-identificacao-de-especialidades-demonstradas-de-individuos"
+    },
+    {
+        "Título": "Análise da Aplicação dos Sistemas de Informação na Gestão do Conhecimento do Colégio Batista Ágape: um estudo de caso",
+        "Membros": [
+            "Letícia Ribeiro Pinto de Oliveira",
+            "Clédson de Souza Magalhães",
+            "Ivo Sócrates Moraes de Oliveira"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/analise-da-aplicacao-dos-sistemas-de-informacao-na-gestao-do-conhecimento-do-colegio-batista-agape-um-estudo-de-caso"
+    },
+    {
+        "Título": "Análise de Sentimento usando Support Vector Machine",
+        "Membros": [
+            "Rafael Gonçalves",
+            "Parcilene Fernandes Brito"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/analise-de-sentimento-usando-support-vector-machine"
+    },
+    {
+        "Título": "Análise de Usabilidade do Project Schedule Free para Android",
+        "Membros": [
+            "Gabriela Fachine Brito",
+            "Cristina Filipakis"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/analise-de-usabilidade-do-project-schedule-free-para-android"
+    },
+    {
+        "Título": "Avaliação da Qualidade de Vida de Idosos no início de um Programa de Videojogos com o Kinect",
+        "Membros": [
+            "Neiva da Costa Santos",
+            "Adriane Macal",
+            "Pierre Soares Brandão"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/avaliacao-da-qualidade-de-vida-de-idosos-no-inicio-de-um-programa-de-videojogos-com-o-kinect"
+    },
+    {
+        "Título": "Card Project Pro: um Jogo de Cartas de Gerenciamento de Projetos",
+        "Membros": [
+            "Willian Almeida Rodrigues",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/card-project-pro-um-jogo-de-cartas-de-gerenciamento-de-projetos"
+    },
+    {
+        "Título": "Comportamento Agudo da Pressão Arterial e da Frequência Cardíaca em Idosos Praticantes de Exergames que Utilizam o Kinect: série de casos",
+        "Membros": [
+            "Sândilla Carla Dias Sousa",
+            "Pierre Soares Brandão"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/comportamento-agudo-da-pressao-arterial-e-da-frequencia-cardiaca-em-idosos-praticantes-de-exergames-que-utilizam-o-kinect-serie-de-casos"
+    },
+    {
+        "Título": "Definição de um Módulo de Apresentação Adaptativa Baseado no Modelo de Referência Munich",
+        "Membros": [
+            "Wellington Rocha Santos",
+            "Edeilson Milhomem",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/definicao-de-um-modulo-de-apresentacao-adaptativa-baseado-no-modelo-de-referencia-munich"
+    },
+    {
+        "Título": "Desenvolvimento de um Protótipo de Classificação Automática de Opiniões",
+        "Membros": [
+            "Paulo Henrique de Sousa",
+            "Fernando Luiz Oliveira"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/desenvolvimento-de-um-prototipo-de-classificacao-automatica-de-opinioes"
+    },
+    {
+        "Título": "Maracatu: Proposta de uma Metodologia para Avaliação de Sistemas de Informação com Foco nos Processos Empresariais",
+        "Membros": [
+            "Erico Diniz Annes e Silva",
+            "Walter Travassos Sarinho"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/maracatu-proposta-de-uma-metodologia-para-avaliacao-de-sistemas-de-informacao-com-foco-nos-processos-empresariais"
+    },
+    {
+        "Título": "Melhorias em Lans Através de Gerência de Redes e QoS: Proposta de Melhoria para Estrutura Atual do CEULP/ULBRA",
+        "Membros": [
+            "Madianita Bogo Marioti",
+            "Neuziron Santos"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/melhorias-em-lans-atraves-de-gerencia-de-redes-e-qos-proposta-de-melhoria-para-estrutura-atual-do-ceulp-ulbra"
+    },
+    {
+        "Título": "Objeto de Aprendizagem de Análise de Pontos de Teste",
+        "Membros": [
+            "Mário Almeida Rodrigues",
+            "Cristina D’Ornellas Filipakis"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/objeto-de-aprendizagem-de-analise-de-pontos-de-teste"
+    },
+    {
+        "Título": "Recomendação Automática de Tags através de Clustering",
+        "Membros": [
+            "Flavio Henrique Stakoviak",
+            "Edeilson Milhomem da Silva"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/recomendacao-automatica-de-tags-atraves-de-clustering"
+    },
+    {
+        "Título": "WIMU: Proposta e Implementação de uma Interface para Gerência de Informações de um WAF",
+        "Membros": [
+            "Bruno G. Lucena",
+            "Rogério C. Turchetti"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/wimu-proposta-e-implementacao-de-uma-interface-para-gerencia-de-informacoes-de-um-waf"
+    },
+    {
+        "Título": "Proposta de processo de estimativa e desenvolvimento de software utilizando Desenvolvimento Orientado a Testes (TDD) e Análise de Ponto de Teste (APT)",
+        "Membros": [
+            "Mário Almeida Rodrigues",
+            "Cristina D’Ornellas Filipakis"
+        ],
+        "Ano": 2013,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2013/artigos/proposta-de-processo-de-estimativa-e-desenvolvimento-de-software-utilizando-desenvolvimento-orientado-a-testes-tdd-e-analise-de-ponto-de-teste-apt"
+    },
+    {
+        "Título": "A Public Tag Recommendation API",
+        "Membros": [
+            "Flavio H. M. Stakoviak",
+            "Edeilson M. Silva"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/a-public-tag-recommendation-api"
+    },
+    {
+        "Título": "Avaliação de Desvio Postural em Ombro utilizando Kinect em uma Visão do Plano Coronal-Anterior",
+        "Membros": [
+            "Gabriel C. S. G. Paula",
+            "Pierre Soares Brandão",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/avaliacao-de-desvio-postural-em-ombro-utilizando-kinect-em-uma-visao-do-plano-coronal-anterior"
+    },
+    {
+        "Título": "Aplicativo iOS para notícias no contexto de transtornos mentais e comportamentais",
+        "Membros": [
+            "William Christhie Caproni de Oliveira",
+            "Parcilene Fernandes Brito"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/aplicativo-ios-para-noticias-no-contexto-de-transtornos-mentais-e-comportamentais"
+    },
+    {
+        "Título": "Abordagem Comparativa nos Processos de Armazenamento e Recuperação de Dados Multimídia",
+        "Membros": [
+            "Igor Modesto Alves",
+            "Ary H. M. Oliveira",
+            "Glenda Botelho",
+            "Ivo S. M. Oliveira"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/abordagem-comparativa-nos-processos-de-armazenamento-e-recuperacao-de-dados-multimidia"
+    },
+    {
+        "Título": "Desenvolvimento de uma Ferramenta para Análise de Pontos de Função",
+        "Membros": [
+            "Victor E. S. Silva",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/desenvolvimento-de-uma-ferramenta-para-analise-de-pontos-de-funcao"
+    },
+    {
+        "Título": "Estudos dos Impactos de Um Mecanismo de Autenticação da Operação do Protocolo SMIP",
+        "Membros": [
+            "Lucas D. S. Queiroz",
+            "Claudio de Castro Monteiro"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/estudos-dos-impactos-de-um-mecanismo-de-autenticacao-da-operacao-do-protocolo-smip"
+    },
+    {
+        "Título": "JLive 2",
+        "Membros": [
+            "Djonathas C. Cardoso",
+            "Jackson G. de Sousa",
+            "Parciline F. de Brito"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/jlive-2"
+    },
+    {
+        "Título": "Impacto do Uso de Firewalls em Conexões TCP e UDP",
+        "Membros": [
+            "Vicente Hercílio da Costa e Silva Andrade",
+            "Cláudio de Castro Monteiro"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/impacto-do-uso-de-firewalls-em-conexoes-tcp-e-udp"
+    },
+    {
+        "Título": "Inception: Uma solução de abertura de portas dinâmicas para o protocolo SMIP",
+        "Membros": [
+            "Eduardo Nascimento de Souza Rolim",
+            "Claudio de Castro Monteiro",
+            "Fabiana Ferreira Cardoso"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/inception-uma-solucao-de-abertura-de-portas-dinamicas-para-o-protocolo-smip"
+    },
+    {
+        "Título": "Análise baseada em processos como melhoria de fluxos organizacionais: Um estudo de caso aplicado a segurança da informação em uma multinacional de telecomunicações",
+        "Membros": [
+            "André Marcos Silva",
+            "Bruno Erthal Fonseca",
+            "Marlon Inácio Lauers Silva"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/analise-baseada-em-processos-como-melhoria-de-fluxos-organizacionais-um-estudo-de-caso-aplicado-a-seguranca-da-informacao-em-uma-multinacional-de-telecomunicacoes"
+    },
+    {
+        "Título": "Práticas de Gamificação e sua Aplicação no Portal (En)Cena",
+        "Membros": [
+            "Roneylson de Alencar Neiva",
+            "Parcilene Fernandes Brito"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/praticas-de-gamificacao-e-sua-aplicacao-no-portal-encena"
+    },
+    {
+        "Título": "Otimização por Enxame de Partículas Aplicado às Pás de uma Turbina Eólica de Eixo Horizontal",
+        "Membros": [
+            "Diego Vieira Ferreira",
+            "Anna Paula de Sousa Parente Rodrigues"
+        ],
+        "Ano": 2014,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2014/artigos/otimizacao-por-enxame-de-particulas-aplicado-as-pas-de-uma-turbina-eolica-de-eixo-horizontal"
+    },
+    {
+        "Título": "Utilização do Pointwise Mutual Information na Identificação de Expressões Multipalavras",
+        "Membros": [
+            "William Christhie",
+            "Parcilene Fernandes Brito"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/utilizacao-do-pointwise-mutual-information-na-identificacao-de-expressoes-multipalavras"
+    },
+    {
+        "Título": "Modelo Canvas de Internet das Coisas para Unidades de Conservação",
+        "Membros": [
+            "Gabriel do Couto Seabra Gusmão de Paula",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/modelo-canvas-de-internet-das-coisas-para-unidades-de-conservacao"
+    },
+    {
+        "Título": "Desenvolvimento de uma ontologia no contexto do turismo usando técnicas de data mining",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Fernando Luiz de Oliveira",
+            "Jhonatan Silva Mota",
+            "Jesiel Souza Padilha",
+            "Clayton Porto Chaves"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/desenvolvimento-de-uma-ontologia-no-contexto-do-turismo-usando-tecnicas-de-data-mining"
+    },
+    {
+        "Título": "Avaliação da Amplitude de Movimento (AMD) em plano coronal anterior utilizando o sensor Kinect: articulações do ombro e do quadril",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Fernando Luiz de Oliveira",
+            "Pierre Soares Brandão",
+            "Fabiano Fagundes",
+            "Thayso Henrique Capuchinho Camargo"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/avaliacao-da-amplitude-de-movimento-amd-em-plano-coronal-anterior-utilizando-o-sensor-kinect-articulacoes-do-ombro-e-do-quadril"
+    },
+    {
+        "Título": "Previsão de Mortalidade de Câncer de Mama usando Redes Perceptron de Múltiplas Camadas e Lógica Fuzzy",
+        "Membros": [
+            "Laís R. B. Maciel",
+            "Ivo S. M. Oliveira",
+            "Ary H. M. Oliveira",
+            "Glenda M. Botelho"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/previsao-de-mortalidade-de-cancer-de-mama-usando-redes-perceptron-de-multiplas-camadas-e-logica-fuzzy"
+    },
+    {
+        "Título": "Práticas Ágeis Aplicadas ao Gerenciamento de Projetos de TI: Um Estudo de Caso Aplicado ao TCE-TO",
+        "Membros": [
+            "Ariel Fonseca Souza Machado",
+            "Vanessa Oliveira da Silva",
+            "Gislaine Pereira Sales",
+            "Elizabeth Maria Martinho da Silva Rodrigues",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/praticas-ageis-aplicadas-ao-gerenciamento-de-projetos-de-ti-um-estudo-de-caso-aplicado-ao-tce-to"
+    },
+    {
+        "Título": "Acessibilidade Web para Pessoas com Visão Reduzida: Ampliando Funcionalidades do Navegador Web Google Chrome através de Extensões",
+        "Membros": [
+            "Wesley Ribeiro Silva",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/acessibilidade-web-para-pessoas-com-visao-reduzida-ampliando-funcionalidades-do-navegador-web-google-chrome-atraves-de-extensoes"
+    },
+    {
+        "Título": "Web Feeds Recommending System Based on Social Data",
+        "Membros": [
+            "Diego Oliveira Rodrigues",
+            "Sagar Gurung",
+            "Dr. Mihaela Cocea"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/web-feeds-recommending-system-based-on-social-data"
+    },
+    {
+        "Título": "J’BOOKS – Aplicação P2P para compartilhamento de eBooks",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Jhonatan Silva Mota",
+            "Ranyelson Neres Carvalho",
+            "Madianita Bogo Marioti"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/jbooks-aplicacao-p2p-para-compartilhamento-de-ebooks"
+    },
+    {
+        "Título": "Análise Postural Computadorizada para Identificação de Hiperlordose utilizando o Kinect",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Fernando Luiz de Oliveira",
+            "Pierre Soares Brandão",
+            "Fabiano Fagundes",
+            "Diego Dias Tainha"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/analise-postural-computadorizada-para-identificacao-de-hiperlordose-utilizando-o-kinect"
+    },
+    {
+        "Título": "Delimitação dos membros superiores e inferiores do corpo humano no plano sagital utilizando o Kinect",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Pierre Soares Brandão",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/delimitacao-dos-membros-superiores-e-inferiores-do-corpo-humano-no-plano-sagital-utilizando-o-kinect"
+    },
+    {
+        "Título": "Motivação dos Engenheiros de Software no Contexto Open Source: Um Estudo de Caso com a Comunidade Android Brasil Projetos",
+        "Membros": [
+            "Danilo Monteiro Ribeiro",
+            "César França",
+            "Pietro P. Pinto"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/motivacao-dos-engenheiros-de-software-no-contexto-open-source-um-estudo-de-caso-com-a-comunidade-android-brasil-projetos"
+    },
+    {
+        "Título": "Cartão de Vacina Eletrônico Utilizando SOA – Arquitetura Orientada a Serviços",
+        "Membros": [
+            "Euvaldo Costa Parente",
+            "Jenifer Melissa de Paula",
+            "José Valter Amaral de Freitas",
+            "Stefan de Oliveira Rosa",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/cartao-de-vacina-eletronico-utilizando-soa-arquitetura-orientada-a-servicos"
+    },
+    {
+        "Título": "Diagnóstico do Uso de Práticas Ágeis no Processo de Desenvolvimento de Software no Estado do Tocantins",
+        "Membros": [
+            "Leandro Henrique Costa Silva",
+            "Brunna Caroline do Carmo Mourão",
+            "Tathinay de Souza Siqueira",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/diagnostico-do-uso-de-praticas-ageis-no-processo-de-desenvolvimento-de-software-no-estado-do-tocantins"
+    },
+    {
+        "Título": "Desenvolvimento de um Cluster de Computadores para Paralelização de Simulações da Dinâmica Molecular com o Software Gromacs",
+        "Membros": [
+            "Ranyelson Neres Carvalho",
+            "Juliane Farinelli Panontin",
+            "Isis Prado Meirelles de Castro",
+            "Madianita Bogo Marioti",
+            "Walkiria Regis de Medeiros"
+        ],
+        "Ano": 2015,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2015/artigos/desenvolvimento-de-um-cluster-de-computadores-para-paralelizacao-de-simulacoes-da-dinamica-molecular-com-o-software-gromacs"
+    },
+    {
+        "Título": "A Importância da Auditoria de TI: Estudo de Caso em um Órgão do Governo do Estado do Tocantins",
+        "Membros": [
+            "Fabricio da Silva Rodrigues",
+            "Brunna Caroline do Carmo Mourão",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/a-importancia-da-auditoria-de-ti-estudo-de-caso-em-um-orgao-do-governo-do-estado-do-tocantins"
+    },
+    {
+        "Título": "Adequação e testagem do IMP Digital para a análise do esquema corporal",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Pierre Soares Brandão",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/adequacao-e-testagem-do-imp-digital-para-a-analise-do-esquema-corporal"
+    },
+    {
+        "Título": "Aplicação da técnica de Text Mining para comentários relacionados ao contexto do Turismo",
+        "Membros": [
+            "Felipe E. B. Schmitz",
+            "Parcilene F. de Brito"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/aplicacao-da-tecnica-de-text-mining-para-comentarios-relacionados-ao-contexto-do-turismo"
+    },
+    {
+        "Título": "Aplicação das Boas Práticas da User Experience na Nova Interface do Portal (En)Cena",
+        "Membros": [
+            "S. S. Barros",
+            "P. F. Brito"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/aplicacao-das-boas-praticas-da-user-experience-na-nova-interface-do-portal-encena"
+    },
+    {
+        "Título": "Aplicação de ferramenta OLAP para identificar quebras de ligações químicas em moléculas de Antocianina",
+        "Membros": [
+            "Ranyelson Neres Carvalho",
+            "Madianita Bogo Marioti",
+            "Walkiria Regis de Medeiros"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/aplicacao-de-ferramenta-olap-para-identificar-quebras-de-ligacoes-quimicas-em-moleculas-de-antocianina"
+    },
+    {
+        "Título": "Avaliação dos Processos de Desenvolvimento de Software das Unidades Organizacionais da Administração Pública do Estado do Tocantins com Base no MPS.BR",
+        "Membros": [
+            "Felipe Oliveira Simões",
+            "Tathinay de Souza Siqueira",
+            "Brunna Caroline do Carmo Mourão",
+            "Thatiane de Oliveira Rosa",
+            "André Mesquita Rincon"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/avaliacao-dos-processos-de-desenvolvimento-de-software-das-unidades-organizacionais-da-administracao-publica-do-estado-do-tocantins-com-base-no-mps-br"
+    },
+    {
+        "Título": "CODE LIVE: Gamificação de um ambiente virtual de programação",
+        "Membros": [
+            "Djonathas C. Cardoso",
+            "Jackson G. de Sousa",
+            "Fabiano Fagundes",
+            "Parcilene F. de Brito"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/code-live-gamificacao-de-um-ambiente-virtual-de-programacao"
+    },
+    {
+        "Título": "Estudo da segmentação do ICMS no Estado do Tocantins entre 2013 e 2014",
+        "Membros": [
+            "Leomar Camargo de Souza",
+            "Haroldo Fernando Fritsch",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/estudo-da-segmentacao-do-icms-no-estado-do-tocantins-entre-2013-e-2014"
+    },
+    {
+        "Título": "Modelo de inferência de locais potencialmente favoráveis a acidentes fatais e graves em Palmas-TO",
+        "Membros": [
+            "Pedro Henrique G. Camargo",
+            "Fernando L. de Oliveira",
+            "Felipe Dias da S. Cabral",
+            "João B. B. Junior",
+            "Maicon J. Fristh"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/modelo-de-inferencia-de-locais-potencialmente-favoraveis-a-acidentes-fatais-e-graves-em-palmas-to"
+    },
+    {
+        "Título": "Modelo de Inferência de Preferências de Clientes em Shoppings Centers",
+        "Membros": [
+            "Douglas J. Ramalho Araujo",
+            "Jackson G. Souza",
+            "Parcilene F. de Brito",
+            "Edeilson M. da Silva"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/modelo-de-inferencia-de-preferencias-de-clientes-em-shoppings-centers"
+    },
+    {
+        "Título": "Modelo de visualização de Informação de um processo de Análise de Sentimentos no contexto do Turismo",
+        "Membros": [
+            "Lucas Henrique Roese",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/modelo-de-visualizacao-de-informacao-de-um-processo-de-analise-de-sentimentos-no-contexto-do-turismo"
+    },
+    {
+        "Título": "ORDENA – um Jogo Educacional para Auxílio ao Ensino de Métodos de Ordenação",
+        "Membros": [
+            "Haroldo F. Fritsch",
+            "Edeilson M. da Silva",
+            "Jackson G. de Souza"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/ordena-um-jogo-educacional-para-auxilio-ao-ensino-de-metodos-de-ordenacao"
+    },
+    {
+        "Título": "Proposta de Framework para Uso Coexistente de Práticas Ágeis das Metodologias Scrum e TDD",
+        "Membros": [
+            "Márcia M. Savoine",
+            "Joyce Karoline M. Matias",
+            "Vanessa F. Rocha",
+            "André M. Rincon",
+            "André Magno C. Araújo"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/proposta-de-framework-para-uso-coexistente-de-praticas-ageis-das-metodologias-scrum-e-tdd"
+    },
+    {
+        "Título": "Sistema de Avaliação de Usabilidade: Usando heurísticas de usabilidade e inteligência artificial para a avaliação ergonômica de softwares",
+        "Membros": [
+            "Fernando Lúcio",
+            "Guilherme Reinaldo",
+            "Matheus Gregorio",
+            "Miguel Lemos",
+            "Rodrigo Melo"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/sistema-de-avaliacao-de-usabilidade-usando-heuristicas-de-usabilidade-e-inteligencia-artificial-para-a-avaliacao-ergonomica-de-softwares"
+    },
+    {
+        "Título": "Utilização do Algoritmo de Máquina de Vetores de Suporte (SVM) para Predição de Dados Climáticos",
+        "Membros": [
+            "Kevin M. Araújo",
+            "Edeilson M. da Silva"
+        ],
+        "Ano": 2016,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2016/artigos/utilizacao-do-algoritmo-de-maquina-de-vetores-de-suporte-svm-para-predicao-de-dados-climaticos"
+    },
+    {
+        "Título": "Análise de Sentimentos: Uma Revisão Sistemática",
+        "Membros": [
+            "Fernanda P. Gomes",
+            "Edeilson M. Silva",
+            "Irenides Teixeira",
+            "Parcilene F. de Brito"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/analise-de-sentimentos-uma-revisao-sistematica"
+    },
+    {
+        "Título": "Apriori SentimentALL: Ferramenta de Extração de Regras de Associação utilizando o Algoritmo Apriori",
+        "Membros": [
+            "Luan Gomes de Almeida Araújo",
+            "José da Silva Filho",
+            "Parcilene Fernandes Brito"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/apriori-sentimentall-ferramenta-de-extracao-de-regras-de-associacao-utilizando-o-algoritmo-apriori"
+    },
+    {
+        "Título": "Avaliação de Desempenho de Uma Ferramenta de Análise de Sentimentos Baseada em Aspectos",
+        "Membros": [
+            "Matheus R. Leal",
+            "Willian C. Christhie",
+            "Parcilene F. Brito"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/avaliacao-de-desempenho-de-uma-ferramenta-de-analise-de-sentimentos-baseada-em-aspectos"
+    },
+    {
+        "Título": "Ferramenta de análise de agrupamentos e visualização de informação aplicada a avaliações no contexto do turismo nacional",
+        "Membros": [
+            "Pedro Henrique Gomes Camargo",
+            "Jackson Gomes de Souza",
+            "Edeílson Milhomem da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/ferramenta-de-analise-de-agrupamentos-e-visualizacao-de-informacao-aplicada-a-avaliacoes-no-contexto-do-turismo-nacional"
+    },
+    {
+        "Título": "Identificação de quebras de ligações químicas em moléculas de Antocianina da Pimenta Malagueta usando ferramenta OLAP",
+        "Membros": [
+            "Ranyelson Neres Carvalho",
+            "Juliane Farinelli Panontin",
+            "Isis Prado Meirelles de Castro Bogo Marioti",
+            "Walkiria Regis de Medeiros"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/identificacao-de-quebras-de-ligacoes-quimicas-em-moleculas-de-antocianina-da-pimenta-malagueta-usando-ferramenta-olap"
+    },
+    {
+        "Título": "Métricas de Software de Tempo e Custo: Diagnóstico de Uso no Estado do Tocantins",
+        "Membros": [
+            "Dioney da Silva Macedo",
+            "Tathinay de Souza Siqueira",
+            "Brunna Caroline do Carmo Mourão",
+            "Thatiane de Oliveira Rosa"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/metricas-de-software-de-tempo-e-custo-diagnostico-de-uso-no-estado-do-tocantins"
+    },
+    {
+        "Título": "OSLive: Protótipo de simulação de algoritmos de escalonamento de processos",
+        "Membros": [
+            "Alisson Melo dos Santos",
+            "Caio Henrique de Sousa",
+            "Fernando Silva Noleto",
+            "Fabiano Fagundes",
+            "Madianita Bogo Marioti"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/oslive-prototipo-de-simulacao-de-algoritmos-de-escalonamento-de-processos"
+    },
+    {
+        "Título": "Proposta de Utilização do Sensor Kinect na Facilitação Neuromuscular Proprioceptiva (FNP)",
+        "Membros": [
+            "Alexandre Henrique Kavalerski Teixeira",
+            "Jhemeson Silva Mota",
+            "Heitor Gabriel dos Santos Florentino",
+            "Renato Marinho Alves",
+            "Pierre Soares Brandão",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/proposta-de-utilizacao-do-sensor-kinect-na-facilitacao-neuromuscular-proprioceptiva-fnp"
+    },
+    {
+        "Título": "Reconhecimento de expressões faciais através de análise facial computadorizada utilizando o Kinect v2",
+        "Membros": [
+            "Gabriel Vaz Aires",
+            "Ian M. M. Santos",
+            "Pierre Soares Brandão",
+            "Fernando Luiz de Oliveira",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/reconhecimento-de-expressoes-faciais-atraves-de-analise-facial-computadorizada-utilizando-o-kinect-v2"
+    },
+    {
+        "Título": "Spiders de extração de dados do turismo nacional com o framework Scrapy",
+        "Membros": [
+            "Pedro Henrique Gomes Camargo",
+            "Luan Gomes de Almeida Araújo",
+            "Jackson Gomes de Souza",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2017,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2017/artigos/spiders-de-extracao-de-dados-do-turismo-nacional-com-o-framework-scrapy"
+    },
+    {
+        "Título": "AlfabetizAR – Proposta de um serious game com realidade aumentada para apoio na alfabetização de crianças",
+        "Membros": [
+            "Kennedy Santos Torres",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/alfabetizar-proposta-de-um-serious-game-com-realidade-aumentada-para-apoio-na-alfabetizacao-de-criancas"
+    },
+    {
+        "Título": "Comparativo entre ferramentas de extração de dados do WhatsApp em sistemas Android para investigação forense",
+        "Membros": [
+            "Dennis Dyodi Kawakami",
+            "Fabiano Fagundes",
+            "Heloise Acco Tives Leão",
+            "Madianita Bogo Marioti"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/comparativo-entre-ferramentas-de-extracao-de-dados-do-whatsapp-em-sistemas-android-para-investigacao-forense"
+    },
+    {
+        "Título": "Desenvolvimento de um ambiente Data Warehouse para organizar e analisar os dados do Exame Nacional de Desempenho dos Estudantes (ENADE)",
+        "Membros": [
+            "Fernanda P. Gomes",
+            "Gustavo S. A. Siqueira",
+            "Ana Clara da C. M. da Silva",
+            "Fernando L. de Oliveira"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/desenvolvimento-de-um-ambiente-data-warehouse-para-organizar-e-analisar-os-dados-do-exame-nacional-de-desempenho-dos-estudantes-enade"
+    },
+    {
+        "Título": "Desenvolvimento de um Software Web para Visualização de Dados de Risco de Dengue em Palmas – TO",
+        "Membros": [
+            "Lucas Ribeiro Reis de Sousa",
+            "Aurélio Miguel Machado da Silva",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/desenvolvimento-de-um-software-web-para-visualizacao-de-dados-de-risco-de-dengue-em-palmas-to"
+    },
+    {
+        "Título": "Gamificação aplicada ao desenvolvimento de software: Análise, Projeto e Implantação",
+        "Membros": [
+            "Heloise A. T. Leão",
+            "Rodrigo V. F. de Souza",
+            "Anilton A. F. Maciel",
+            "Sergio A. A. de Freitas",
+            "Edna D. Canedo"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/gamificacao-aplicada-ao-desenvolvimento-de-software-analise-projeto-e-implantacao"
+    },
+    {
+        "Título": "Mineração dos Dados do Enade: Avaliação do questionário do estudante das Instituições do Norte do Brasil",
+        "Membros": [
+            "Alexandre Moraes Matos",
+            "Lucas Ribeiro Reis de Sousa",
+            "Ismael Pontes Torres Júnior",
+            "Renato Marinho Alves",
+            "Heloise Acco Tives Leão",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/mineracao-dos-dados-do-enade-avaliacao-do-questionario-do-estudante-das-instituicoes-do-norte-do-brasil"
+    },
+    {
+        "Título": "Módulo de identificação da polaridade geral dos Comentários do TripAdvisor baseado na polaridade dos seus Aspectos",
+        "Membros": [
+            "Taylor Santos Oliveira",
+            "Dionnys Santos Marinho",
+            "Parcilene Fernandes Brito"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/modulo-de-identificacao-da-polaridade-geral-dos-comentarios-do-tripadvisor-baseado-na-polaridade-dos-seus-aspectos"
+    },
+    {
+        "Título": "Módulo de Pré-Processamento da Ferramenta SentimentALL",
+        "Membros": [
+            "Luan Gomes de Almeida Araújo",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/modulo-de-pre-processamento-da-ferramenta-sentimentall"
+    },
+    {
+        "Título": "Ontologia para Representação das Relações dos Perfis de Professor e Aluno em uma Instituição de Ensino Superior",
+        "Membros": [
+            "Matheus R. Leal",
+            "Parcilene F. Brito"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/ontologia-para-representacao-das-relacoes-dos-perfis-de-professor-e-aluno-em-uma-instituicao-de-ensino-superior"
+    },
+    {
+        "Título": "Pesquisa Quali-Quantitativa sobre a Produção de Trabalhos Acadêmico-Científicos",
+        "Membros": [
+            "Tayse Virgulino Ribeiro",
+            "Fernanda Pereira Gomes",
+            "Ana Clara da Conceição Macêdo da Silva",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/pesquisa-quali-quantitativa-sobre-a-producao-de-trabalhos-academico-cientificos"
+    },
+    {
+        "Título": "Proposta de um Sistema Interativo para Formatação e Edição de Trabalhos Acadêmicos Científicos",
+        "Membros": [
+            "Alexandre M. Matos",
+            "Felipe D. da Silva Cabral",
+            "Flávio L. do Nascimento",
+            "Lucas Ribeiro R. de Sousa",
+            "Renato M. Alves",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/proposta-de-um-sistema-interativo-para-formatacao-e-edicao-de-trabalhos-academicos-cientificos"
+    },
+    {
+        "Título": "Proposta de uma Plataforma de Criação de Jogos com Foco no Desenvolvimento de Crianças com Autismo",
+        "Membros": [
+            "Jhemeson Silva Mota",
+            "Ian Macedo Maiwald",
+            "Alexandre Henrique Kavalerski Teixeira",
+            "Fabiano Fagundes",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/proposta-de-uma-plataforma-de-criacao-de-jogos-com-foco-no-desenvolvimento-de-criancas-com-autismo"
+    },
+    {
+        "Título": "Realocação de Sensores em Redes de Sensores sem Fio Heterogêneas para Cidades Inteligentes",
+        "Membros": [
+            "Humberto Filho",
+            "Kelvin Bernardo",
+            "Aldri Santos",
+            "Fernando Matos"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/realocacao-de-sensores-em-redes-de-sensores-sem-fio-heterogeneas-para-cidades-inteligentes"
+    },
+    {
+        "Título": "Sensor Kinect aplicado ao reconhecimento de expressões faciais: Raiva e Medo",
+        "Membros": [
+            "Ian Macedo Maiwald Santos",
+            "Renato Marinho Alves",
+            "Alexandre Henrique Kavalerski Teixeira",
+            "Jhemeson Silva Mota",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/sensor-kinect-aplicado-ao-reconhecimento-de-expressoes-faciais-raiva-e-medo"
+    },
+    {
+        "Título": "SIDD: Um novo Processo Ágil para Desenvolvimento e Gerenciamento de Software",
+        "Membros": [
+            "Tayse Virgulino Ribeiro",
+            "Cristina D'Ornelas Filipakis Souza"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/sidd-um-novo-processo-agil-para-desenvolvimento-e-gerenciamento-de-software"
+    },
+    {
+        "Título": "Tecnologias de Reconhecimento de Fala: uma revisão sistemática de trabalhos no Brasil",
+        "Membros": [
+            "Alexandre Henrique Kavalerski Teixeira",
+            "Ian Macedo Maiwald Santos",
+            "Jhemeson Silva Mota",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2018,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/tecnologias-de-reconhecimento-de-fala-uma-revisao-sistematica-de-trabalhos-no-brasil"
+    },
+    {
+        "Título": "ALTVRA: um jogo sério de realidade virtual para o auxílio no tratamento de acrofobia",
+        "Membros": [
+            "Ian Santos",
+            "Fabiano Fagundes",
+            "Irenides Teixeira",
+            "Jackson Souza"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/altvra-um-jogo-serio-de-realidade-virtual-para-o-auxilio-no-tratamento-de-acrofobia"
+    },
+    {
+        "Título": "Aplicação Web para o Ensino de Árvore Binária de Busca",
+        "Membros": [
+            "Gedilson Pessoa da Silva",
+            "Fernando Luiz de Oliveira",
+            "Madianita Bogo",
+            "Heloise Leão",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/aplicacao-web-para-o-ensino-de-arvore-binaria-de-busca"
+    },
+    {
+        "Título": "Avaliação do Módulo de Identificação da Polaridade Geral dos Comentários do TripAdvisor",
+        "Membros": [
+            "Taylor Oliveira",
+            "Dionnys Santos Marinho",
+            "Parcilene Brito"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/avaliacao-do-modulo-de-identificacao-da-polaridade-geral-dos-comentarios-do-tripadvisor"
+    },
+    {
+        "Título": "B-VR: Sistema com realidade virtual para auxiliar no tratamento da coordenação motora do equilíbrio",
+        "Membros": [
+            "Kennedy Torres",
+            "Alexandre Teixeira",
+            "Fabiano Fagundes",
+            "Jackson Souza",
+            "Pierre S. Brandão"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/b-vr-sistema-com-realidade-virtual-para-auxiliar-no-tratamento-da-coordenacao-motora-do-equilibrio"
+    },
+    {
+        "Título": "CodeLive: reformulação da arquitetura e implementação",
+        "Membros": [
+            "Karoline Barreto",
+            "Jackson Souza",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/codelive-reformulacao-da-arquitetura-e-implementacao"
+    },
+    {
+        "Título": "Dashboard para Gestão Acadêmica",
+        "Membros": [
+            "Robson Gomes",
+            "Jose Henrique Coelho Brandão",
+            "Fernanda Gomes",
+            "Parcilene Brito"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/dashboard-para-gestao-academica"
+    },
+    {
+        "Título": "Desenvolvimento de um Data Mart e Automatização do Processo ETL no contexto da Produção Acadêmica do CEULP/ULBRA",
+        "Membros": [
+            "Murillo Roseno Feitoza Lima",
+            "Jackson de Souza"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/desenvolvimento-de-um-data-mart-e-automatizacao-do-processo-etl-no-contexto-da-producao-academica-do-ceulp-ulbra"
+    },
+    {
+        "Título": "Desenvolvimento de um protótipo de sad para analisar e classificar os processos dentro da procuradoria geral do estado do tocantins",
+        "Membros": [
+            "Wllynilson Carneiro",
+            "Ewerton Santiago",
+            "Marcus Oliveira",
+            "Fernando Luiz de Oliveira"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/desenvolvimento-de-um-prototipo-de-sad-para-analisar-e-classificar-os-processos-dentro-da-procuradoria-geral-do-estado-do-tocantins"
+    },
+    {
+        "Título": "Gamificação na Educação: aplicação de elementos de jogos no Módulo de Tabela Verdade que auxilia no processo de ensino-aprendizagem da disciplina de Lógica",
+        "Membros": [
+            "Fernanda Gomes",
+            "Parcilene Brito"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/gamificacao-na-educacao-aplicacao-de-elementos-de-jogos-no-modulo-de-tabela-verdade-que-auxilia-no-processo-de-ensino-aprendizagem-da-disciplina-de-logica"
+    },
+    {
+        "Título": "Implementação de Banco de Dados Distribuídos em MySQL para o portal (En)cena",
+        "Membros": [
+            "Maria do Carmo Brito da Silva",
+            "Muriel Souza da Cruz",
+            "Jose Henrique Coelho Brandão",
+            "Pedro Sousa Silva",
+            "Madianita Bogo"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/implementacao-de-banco-de-dados-distribuidos-em-mysql-para-o-portal-encena"
+    },
+    {
+        "Título": "Mineração de dados para analisar estratégia de negociação para o mercado de câmbio",
+        "Membros": [
+            "Aurélio Miguel Silva",
+            "Thiago Aparecido Silva",
+            "Raphael Bentes",
+            "Heloise Leão"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/mineracao-de-dados-para-analisar-estrategia-de-negociacao-para-o-mercado-de-cambio"
+    },
+    {
+        "Título": "Proposta de um aplicativo de Realidade Aumentada para tratamento de aracnofobia",
+        "Membros": [
+            "Karoline Barreto",
+            "Fabiano Fagundes",
+            "Cristina Filipakis",
+            "Lauriane Moreira"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/proposta-de-um-aplicativo-de-realidade-aumentada-para-tratamento-de-aracnofobia"
+    },
+    {
+        "Título": "TDChain: uso de blockchain na cadeia de distribuição de medicamentos",
+        "Membros": [
+            "Jhemeson Mota",
+            "Ian Santos",
+            "Alexandre Teixeira",
+            "Kennedy Torres",
+            "Madianita Bogo"
+        ],
+        "Ano": 2019,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2019/artigos/tdchain-uso-de-blockchain-na-cadeia-de-distribuicao-de-medicamentos"
+    },
+    {
+        "Título": "Blockchain aplicado na cadeia de comercialização de produtos rurais",
+        "Membros": [
+            "Augusto Cavalcanti",
+            "Dionnys Santos Marinho",
+            "Giovanna Filipakis",
+            "Ronicley Silva de Sa",
+            "Madianita Bogo Marioti"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/blockchain-aplicado-na-cadeia-de-comercializacao-de-produtos-rurais"
+    },
+    {
+        "Título": "Desenvolvimento de um aplicativo mobile para navegação interna no CEULP/ULBRA",
+        "Membros": [
+            "Lucas Costa da Silva",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/desenvolvimento-de-um-aplicativo-mobile-para-navegacao-interna-no-ceulp-ulbra"
+    },
+    {
+        "Título": "Desenvolvimento de uma ferramenta para validação de Fórmulas Proposicionais usando o método de Árvore de Refutação",
+        "Membros": [
+            "Danilo Saraiva Vicente",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/desenvolvimento-de-uma-ferramenta-para-validacao-de-formulas-proposicionais-usando-o-metodo-de-arvore-de-refutacao"
+    },
+    {
+        "Título": "Desenvolvimento de uma gramática para auxílio no processo de criação e validação de fórmulas proposicionais estruturada em XML do Logic Live",
+        "Membros": [
+            "Danilo Saraiva Vicente",
+            "Emanoel Mendes Magalhães",
+            "Nalberthy Sousa da Silva",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/desenvolvimento-de-uma-gramatica-para-auxilio-no-processo-de-criacao-e-validacao-de-formulas-proposicionais-estruturada-em-xml-do-logic-live"
+    },
+    {
+        "Título": "Desnormalização na otimização da estrutura de dados da SentimentALL",
+        "Membros": [
+            "Dionnys Santos Marinho",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/desnormalizacao-na-otimizacao-da-estrutura-de-dados-da-sentimentall"
+    },
+    {
+        "Título": "Extração e armazenamento de dados de teses e dissertações sobre saúde mental presentes em repositórios de universidades do Brasil",
+        "Membros": [
+            "Danilo Saraiva Vicente",
+            "Dionnys Santos Marinho",
+            "Giovanna Biagi Filipakis",
+            "Mateus Rodrigues Costa",
+            "Nalberthy Sousa da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/extracao-e-armazenamento-de-dados-de-teses-e-dissertacoes-sobre-saude-mental-presentes-em-repositorios-de-universidades-do-brasil"
+    },
+    {
+        "Título": "GraphLive: um sistema interativo para a criação de grafos",
+        "Membros": [
+            "Pedro Sousa Silva Cantuária",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/graphlive-um-sistema-interativo-para-a-criacao-de-grafos"
+    },
+    {
+        "Título": "Implementação de um Data Mart e Automatização do Processo ETL para o Sistema de Procedimentos Extrajudiciais do MPE/TO",
+        "Membros": [
+            "Thiago Aparecido da Silva",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/implementacao-de-um-data-mart-e-automatizacao-do-processo-etl-para-o-sistema-de-procedimentos-extrajudiciais-do-mpe-to"
+    },
+    {
+        "Título": "OSLIVE: Módulo de Exercícios de Escalonamento de Processos",
+        "Membros": [
+            "Gabriel Fernandes da Silva",
+            "Madianita B. Marioti",
+            "Fabio Castro Araújo"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/oslive-modulo-de-exercicios-de-escalonamento-de-processos"
+    },
+    {
+        "Título": "Otimização da Localização das Unidades Básicas de Saúde Utilizando o Modelo p-Centro: Um estudo de caso",
+        "Membros": [
+            "Luis Eduardo Costa Laurindo",
+            "Isaac Jordan Lopes"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/otimizacao-da-localizacao-das-unidades-basicas-de-saude-utilizando-o-modelo-p-centro-um-estudo-de-caso"
+    },
+    {
+        "Título": "Rumo a conformidade da segurança cibernética em sistemas de controle industriais: estudo de caso com a planta MecatrIME",
+        "Membros": [
+            "Christiana Couto",
+            "Gustavo Claudio Karl Couto",
+            "Antonio Eduardo Carrilho da Cunha"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/rumo-a-conformidade-da-seguranca-cibernetica-em-sistemas-de-controle-industriais-estudo-de-caso-com-a-planta-mecatrime"
+    },
+    {
+        "Título": "Um sistema mobile de apoio ao profissional de Educação Física para a realização da avaliação física, periodização de treino e prescrição dos exercícios",
+        "Membros": [
+            "Claison Marques da Nóbrega",
+            "Fabiano Fagundes",
+            "Jackson Gomes de Souza",
+            "Pierre Soares Brandão"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/um-sistema-mobile-de-apoio-ao-profissional-de-educacao-fisica-para-a-realizacao-da-avaliacao-fisica-periodizacao-de-treino-e-prescricao-dos-exercicios"
+    },
+    {
+        "Título": "Uma Plataforma para Autoria de Chatbots como Auxílio no Processo de Ensino",
+        "Membros": [
+            "Luis Eduardo Costa Laurindo",
+            "Allyson Martins",
+            "Ivan Rodrigues de Moura",
+            "Carleandro de Oliveira Nolêto"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/uma-plataforma-para-autoria-de-chatbots-como-auxilio-no-processo-de-ensino"
+    },
+    {
+        "Título": "White Hat Hacking: Securing networks with offensive strategy – A systematic literature review",
+        "Membros": [
+            "Thiago Figueiredo Costa",
+            "André da Cruz"
+        ],
+        "Ano": 2020,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2020/artigos/white-hat-hacking-securing-networks-with-offensive-strategy-a-systematic-literature-review"
+    },
+    {
+        "Título": "Application of Artificial Intelligence Through Neural Networks to Predict Honey Production Based on Weather Patterns",
+        "Membros": [
+            "Mário R. G. Meireles Filho",
+            "Aldir S. Sousa"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/application-of-artificial-intelligence-through-neural-networks-to-predict-honey-production-based-on-weather-patterns"
+    },
+    {
+        "Título": "Assistive Social Robots to Support the Elderly Care: A Systematic Mapping",
+        "Membros": [
+            "Ricardo Ferreira Vilela",
+            "Pedro Henrique Dias Valle"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/assistive-social-robots-to-support-the-elderly-care-a-systematic-mapping"
+    },
+    {
+        "Título": "Caracterização da rede de coautoria dos cursos de Ciência da Computação, Sistemas de Informação e Engenharia de Software do CEULP/ULBRA a partir das publicações no ENCOINFO",
+        "Membros": [
+            "Caio Vinicius Davantel",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/caracterizacao-da-rede-de-coautoria-dos-cursos-de-ciencia-da-computacao-sistemas-de-informacao-e-engenharia-de-software-do-ceulp-ulbra-a-partir-das-publicacoes-no-encoinfo"
+    },
+    {
+        "Título": "Desenvolvimento de um protótipo de Formalizador de sentenças proposicionais",
+        "Membros": [
+            "Muriel Souza da Cruz",
+            "José Henrique Coelho Brandão",
+            "Vinicius Ozelim Cavichioli",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/desenvolvimento-de-um-prototipo-de-formalizador-de-sentencas-proposicionais"
+    },
+    {
+        "Título": "Desenvolvimento de uma API para consulta de informações sobre “Saúde Mental” de uma base de dados de teses e dissertações",
+        "Membros": [
+            "Pablo Henrique de Sousa",
+            "Leonardo Setubal Maggio",
+            "Dionnys Santos Marinho",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/desenvolvimento-de-uma-api-para-consulta-de-informacoes-sobre-saude-mental-de-uma-base-de-dados-de-teses-e-dissertacoes"
+    },
+    {
+        "Título": "Desenvolvimento de uma plataforma gamificada baseada em uma HQ de Lógica",
+        "Membros": [
+            "Douglas Aquino Moreno",
+            "Stefan Lucas Aquino Silva",
+            "Calebe Loures Sampaio Eler de Souza",
+            "Natanna Rocha Santos",
+            "Parcilene Fernandes De Brito"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/desenvolvimento-de-uma-plataforma-gamificada-baseada-em-uma-hq-de-logica"
+    },
+    {
+        "Título": "Dessensibilização Sistemática como Suporte ao Usuário em Jogos Baseados em Realidade Aumentada",
+        "Membros": [
+            "Karoline Dias Barreto",
+            "Fabiano Fagundes",
+            "Cristina D’Ornellas Filipakis",
+            "Lauriane dos Santos Moreira"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/dessensibilizacao-sistematica-como-suporte-ao-usuario-em-jogos-baseados-em-realidade-aumentada"
+    },
+    {
+        "Título": "Learning Experience Design e gamificação no Desenvolvimento de um Módulo de Exercícios de Formalização de Argumentos no Contexto da Lógica de Predicados",
+        "Membros": [
+            "Muriel Souza da Cruz",
+            "Fernanda Pereira Gomes",
+            "José Henrique Coelho Brandão",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/learning-experience-design-e-gamificacao-no-desenvolvimento-de-um-modulo-de-exercicios-de-formalizacao-de-argumentos-no-contexto-da-logica-de-predicados"
+    },
+    {
+        "Título": "Levantamento e diagnóstico do nível de maturidade em segurança da  informação: um estudo de caso em órgãos de segurança pública de  Alagoas",
+        "Membros": [
+            "José L. da Silva",
+            "Bruno A. Feijó dos Santos",
+            "Eduardo C. Moraes",
+            "Edison Camilo"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/levantamento-e-diagnostico-do-nivel-de-maturidade-em-seguranca-da-informacao-um-estudo-de-caso-em-orgaos-de-seguranca-publica-de-alagoas"
+    },
+    {
+        "Título": "Módulo de Formalização de Argumentos da Lógica Proposicional para a Plataforma Gamificada Logic Live",
+        "Membros": [
+            "Erick Willames E. Rodrigues",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/modulo-de-formalizacao-de-argumentos-da-logica-proposicional-para-a-plataforma-gamificada-logic-live"
+    },
+    {
+        "Título": "Módulo do Cálculo Proposicional para o Logic Live",
+        "Membros": [
+            "Nalberthy Sousa da Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/modulo-do-calculo-proposicional-para-o-logic-live"
+    },
+    {
+        "Título": "OSLIVE: Módulo Web de Simulação da Paginação por Demanda",
+        "Membros": [
+            "Rodrigo V. Figueiredo",
+            "Madianita B. Marioti"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/oslive-modulo-web-de-simulacao-da-paginacao-por-demanda"
+    },
+    {
+        "Título": "OSLIVE: simulação do algoritmo de múltiplas filas do módulo de escalonamento de processos",
+        "Membros": [
+            "Luan Borghesan",
+            "Madianita B. Marioti",
+            "Cristina Filipakis",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/oslive-simulacao-do-algoritmo-de-multiplas-filas-do-modulo-de-escalonamento-de-processos"
+    },
+    {
+        "Título": "Proposta de uma carteira de vacinação digital com Blockchain",
+        "Membros": [
+            "Douglas Aquino Moreno",
+            "Natanna Rocha Santos",
+            "Stefan Lucas Aquino Silva",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/proposta-de-uma-carteira-de-vacinacao-digital-com-blockchain"
+    },
+    {
+        "Título": "Uma proposta de utilização de Redes Neurais na criação de sequências didáticas baseadas no padrão SCORM",
+        "Membros": [
+            "Giovanna Filipakis",
+            "Fabiano Fagundes"
+        ],
+        "Ano": 2021,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2021/artigos/uma-proposta-de-utilizacao-de-redes-neurais-na-criacao-de-sequencias-didaticas-baseadas-no-padrao-scorm"
+    },
+    {
+        "Título": "Aplicação de TaaS (Test as a Service) com Cypress",
+        "Membros": [
+            "Giulliany Lima Bezerra",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/aplicacao-de-taas-test-as-a-service-com-cypress"
+    },
+    {
+        "Título": "Automação de Testes de API HTTP REST Utilizando BDD",
+        "Membros": [
+            "Ricardo S. R. Mota",
+            "Jackson G. Souza"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/automacao-de-testes-de-api-http-rest-utilizando-bdd"
+    },
+    {
+        "Título": "Blockchain para a Validação de Certificados",
+        "Membros": [
+            "Natanna Rocha Santos",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/blockchain-para-a-validacao-de-certificados"
+    },
+    {
+        "Título": "Efeitos da Sobre-amostragem na Sobreposição e Classificação de Dados de Fraudes em Cartões de Crédito",
+        "Membros": [
+            "Guilherme G. Horta",
+            "Murilo B. Loiola"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/efeitos-da-sobre-amostragem-na-sobreposicao-e-classificacao-de-dados-de-fraudes-em-cartoes-de-credito"
+    },
+    {
+        "Título": "Estudo Comparativo de Técnicas de Seleção de Caracterısticas para Detecção de Ataques em Redes IoT",
+        "Membros": [
+            "Joao Paulo Pereira",
+            "Pedro Cruz",
+            "Murilo Loiola"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/estudo-comparativo-de-tecnicas-de-selecao-de-caracteristicas-para-deteccao-de-ataques-em-redes-iot"
+    },
+    {
+        "Título": "Módulo de Simulação do Mecanismo de Paginação por Demanda com Substituição de Páginas do OSLive: Algoritmo de Segunda Chance",
+        "Membros": [
+            "Wesley M. Novaes",
+            "Madianita B. Marioti"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/modulo-de-simulacao-do-mecanismo-de-paginacao-por-demanda-com-substituicao-de-paginas-do-oslive-algoritmo-de-segunda-chance"
+    },
+    {
+        "Título": "NORTI: aplicativo móvel com informações sobre adoção de padrões de desenvolvimento arquitetura de software e tecnologias por empresas de TI da região norte do Brasil",
+        "Membros": [
+            "Lucas Pedro L. Carvalho",
+            "Jackson G. de Souza"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/norti-aplicativo-movel-com-informacoes-sobre-adocao-de-padroes-de-desenvolvimento-arquitetura-de-software-e-tecnologias-por-empresas-de-ti-da-regiao-norte-do-brasil"
+    },
+    {
+        "Título": "OSLive: Questões Para Avaliação da Qualidade Pedagógica da Ferramenta Utilizando Como Base os Critérios da Taxonomia TARDA",
+        "Membros": [
+            "Ana C.C. Marinho",
+            "Madianita B. Marioti"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/oslive-questoes-para-avaliacao-da-qualidade-pedagogica-da-ferramenta-utilizando-como-base-os-criterios-da-taxonomia-tarda"
+    },
+    {
+        "Título": "Proposta de implementação de uma camada de segurança em um servidor de rede_serviços Proftpd, Apache http server e Openssh",
+        "Membros": [
+            "Cryslei Ferreira Gomes",
+            "Madianita Bogo Marioti",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/proposta-de-implementacao-de-uma-camada-de-seguranca-em-um-servidor-de-rede_servicos-proftpd-apache-http-server-e-openssh"
+    },
+    {
+        "Título": "Protótipo de um Jogo para Dispositivos Móveis Baseado em uma Revista em Quadrinhos",
+        "Membros": [
+            "Douglas Aquino Moreno",
+            "Stefan Lucas Aquino Silva",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/prototipo-de-um-jogo-para-dispositivos-moveis-baseado-em-uma-revista-em-quadrinhos"
+    },
+    {
+        "Título": "PSIACADEMIC ANALYTICS: desenvolvimento do módulo de Visualização de Informação sobre saúde mental de repositórios de teses e dissertações",
+        "Membros": [
+            "Leonardo S. Maggio",
+            "Pablo H. Sousa",
+            "Parcilene Fernandes de Brito",
+            "Irenides Teixeira"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/psiacademic-analytics-desenvolvimento-do-modulo-de-visualizacao-de-informacao-sobre-saude-mental-de-repositorios-de-teses-e-dissertacoes"
+    },
+    {
+        "Título": "Um simulador do ambiente de pilha de areia para visualização de sistemas complexos",
+        "Membros": [
+            "João Paulo Oliveira e Silva",
+            "Gabriel Vitor Silva Barbosa",
+            "Fabiano Fagundes",
+            "Agostinho Serrano de Andrade Neto"
+        ],
+        "Ano": 2022,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2022/artigos/um-simulador-do-ambiente-de-pilha-de-areia-para-visualizacao-de-sistemas-complexos"
+    },
+    {
+        "Título": "Aplicação de Criptografia E2EE no Compartilhamento de Dados em Redes com o Algoritmo RSA",
+        "Membros": [
+            "Rodrigo Alvarez Cunha Donato",
+            "Henrique Dias Silva",
+            "João Vitor Ferreira Cavalcante",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/aplicacao-de-criptografia-e2ee-no-compartilhamento-de-dados-em-redes-com-o-algoritmo-rsa"
+    },
+    {
+        "Título": "Desenvolvimento da APILYZER: Uma biblioteca Python  para a avaliação da segurança e maturidade de APIs REST",
+        "Membros": [
+            "Marco Antônio Martins Porto Netto",
+            "Wendhel Valeriano de Almeida Cruz",
+            "Yan Araújo Gonçalves Sardinha",
+            "Fábio Castro Araújo",
+            "Jackson Gomes de Souza"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/desenvolvimento-da-apilyzer-uma-biblioteca-python-para-a-avaliacao-da-seguranca-e-maturidade-de-apis-rest"
+    },
+    {
+        "Título": "Desenvolvimento da Primeira Fase do Jogo “Subsolo do Absurdo”: aprendendo sobre os operadores lógicos",
+        "Membros": [
+            "Lucas Vinicius Oliveira Cardoso",
+            "Parcilene Fernandes de Brito",
+            "Douglas Aquino Moreno",
+            "Adriano Alves Silva"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/desenvolvimento-da-primeira-fase-do-jogo-subsolo-do-absurdo-aprendendo-sobre-os-operadores-logicos"
+    },
+    {
+        "Título": "Estratégias de Implementação do ChatGPT para Inovação na Educação: Um Estudo na Ulbra Palmas",
+        "Membros": [
+            "Marlon Bruno de Matos Abreu",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/estrategias-de-implementacao-do-chatgpt-para-inovacao-na-educacao-um-estudo-na-ulbra-palmas"
+    },
+    {
+        "Título": "MindEncena: uma Proposta de Pesquisa Inteligente para o portal “(En)cena Saúde Mental” que utiliza o modelo GPT-3.5-TURBO",
+        "Membros": [
+            "Jacyiricê Silva Oliveira",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/mindencena-uma-proposta-de-pesquisa-inteligente-para-o-portal-encena-saude-mental-que-utiliza-o-modelo-gpt-3-5-turbo"
+    },
+    {
+        "Título": "OSLIVE: Avaliação da Qualidade Pedagógica da Ferramenta com Base na Taxonomia TARDA",
+        "Membros": [
+            "Ana C. Marinho",
+            "Madianita B. Marioti"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/oslive-avaliacao-da-qualidade-pedagogica-da-ferramenta-com-base-na-taxonomia-tarda"
+    },
+    {
+        "Título": "OSLive: Módulo de Simulação do Gerenciamento de Memória por Segmentação",
+        "Membros": [
+            "Wesley Miranda Novaes",
+            "Carlos Eduardo Pereira Turibio",
+            "Madianita B. Marioti"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/oslive-modulo-de-simulacao-do-gerenciamento-de-memoria-por-segmentacao"
+    },
+    {
+        "Título": "SAÚDE MENTAL ANALYTICS: Desenvolvimento do Dashboard de dados públicos de Saúde Mental",
+        "Membros": [
+            "Anna Júlia Cardoso Lira",
+            "Leonardo Setubal Maggio",
+            "Margareth Santos de Amorim",
+            "Pablo Henrique de Sousa",
+            "Parcilene Fernandes de Brito"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/saude-mental-analytics-desenvolvimento-do-dashboard-de-dados-publicos-de-saude-mental"
+    },
+    {
+        "Título": "Serious Game Mobile Voltado a Estudantes de Psicologia para Auxílio no Entendimento do TDAH",
+        "Membros": [
+            "Matheus Santos Almeida",
+            "Fernanda Pereira Gomes",
+            "Douglas Aquino Moreno"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/serious-game-mobile-voltado-a-estudantes-de-psicologia-para-auxilio-no-entendimento-do-tdah"
+    },
+    {
+        "Título": "Utilização da Ferramenta Snort 3 para Detecção de Intrusão em Redes de Pequeno Porte",
+        "Membros": [
+            "Adan Campos Diniz",
+            "Douglas Henrique Oliveira Costa",
+            "Victor de Oliveira Vieira",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/utilizacao-da-ferramenta-snort-3-para-deteccao-de-intrusao-em-redes-de-pequeno-porte"
+    },
+    {
+        "Título": "Vulnerabilidades na Era Digital: Explorando os Desafios da Segurança em Smart Homes",
+        "Membros": [
+            "André Tavares de Sousa",
+            "Anna Júlia Cardoso Lira",
+            "Stéfano Brito de Sá",
+            "Fábio Castro Araújo"
+        ],
+        "Ano": 2023,
+        "Link": "https://ulbra-to.br/encoinfo/edicoes/2023/artigos/vulnerabilidades-na-era-digital-explorando-os-desafios-da-seguranca-em-smart-homes"
+    }
+]
